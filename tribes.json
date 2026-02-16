@@ -1,0 +1,149 @@
+{
+  "maria": {
+    "id": "maria",
+    "name": "Maria Tribe",
+    "subheading": "Forest-dwelling tribe known for strong community life and traditional dances",
+    "description": "About the Maria Tribe\n\n• Lives mainly in the forest regions of Abujmarh, Bastar\n• Known for strong community life and simple living\n• Deeply connected to nature and forest resources\n\nDaily Life\n• Farming, hunting, fishing, and forest produce collection\n• Houses made from mud, wood, and thatched roofs\n• Community decisions are taken together\n\nCulture & Traditions\n• Famous for the Bison Horn Dance\n• Traditional drums and folk music\n• Festivals celebrated with rituals and group dances\n\nFood Habits\n• Rice as staple food\n• Chapda (red ant chutney)\n• Mahua flowers and forest vegetables",
+    "image": "bison_horn_dance",
+    "uniqueTradition": "Bison Horn Dance",
+    "region": "Abujmarh, Bastar (Chhattisgarh)",
+    "language": "Gondi / Abuj Maria",
+    "gallery": ["bison_horn_dance", "forest_village", "traditional_dance"],
+    "culture": [
+      {
+        "title": "About",
+        "type": "about",
+        "data": [
+          "Lives mainly in forest regions",
+          "Strong community bonding",
+          "Deep connection with nature"
+        ]
+      },
+      {
+        "title": "Daily Life",
+        "type": "lifestyle",
+        "data": [
+          "Farming and forest produce collection",
+          "Hunting and fishing",
+          "Mud and thatched houses"
+        ]
+      },
+      {
+        "title": "Food Habits",
+        "type": "food",
+        "data": [
+          "Rice as staple food",
+          "Chapda (red ant chutney)",
+          "Mahua flowers and forest vegetables"
+        ]
+      },
+      {
+        "title": "Festivals",
+        "type": "festival",
+        "data": ["Bastar Dussehra", "Madai Festival"]
+      },
+      {
+        "title": "Dance & Music",
+        "type": "dance",
+        "data": ["Bison Horn Dance", "Traditional drums and folk songs"]
+      }
+    ]
+  },
+
+  "gond": {
+    "id": "gond",
+    "name": "Gond Tribe",
+    "subheading": "One of India’s largest tribes famous for art and nature worship",
+    "description": "About the Gond Tribe\n\n• One of the largest tribal communities in India\n• Found across Bastar and southern Chhattisgarh\n• Rich history of art, folklore, and traditions\n\nBeliefs & Lifestyle\n• Worship nature, trees, animals, rivers, and hills\n• Farming and forest collection are main occupations\n• Art is an important part of daily life\n\nArt & Culture\n• Famous for Gond paintings using dots and lines\n• Paintings show animals, trees, and village life\n• Folk songs are sung during festivals and farming\n\nFestivals & Food\n• Madai, Hareli, and Polam Pandum festivals\n• Rice, mahua, forest fruits, and vegetables",
+    "image": "gond_painting",
+    "uniqueTradition": "Gond Painting",
+    "region": "Bastar and South Chhattisgarh",
+    "language": "Gondi (Koitur)",
+    "gallery": ["gond_painting", "tribal_village", "festival_celebration"],
+    "culture": [
+      {
+        "title": "About",
+        "type": "about",
+        "data": [
+          "One of the largest tribes in India",
+          "Rich art and folklore",
+          "Strong belief in nature worship"
+        ]
+      },
+      {
+        "title": "Beliefs",
+        "type": "belief",
+        "data": [
+          "Worship trees, animals, and rivers",
+          "Nature is considered sacred",
+          "Spiritual connection with environment"
+        ]
+      },
+      {
+        "title": "Art & Craft",
+        "type": "art",
+        "data": [
+          "Gond paintings made with dots and lines",
+          "Paintings show animals and daily life",
+          "Art passed through generations"
+        ]
+      },
+      {
+        "title": "Food",
+        "type": "food",
+        "data": ["Rice", "Mahua", "Forest fruits and vegetables"]
+      },
+      {
+        "title": "Festivals",
+        "type": "festival",
+        "data": ["Madai Festival", "Hareli", "Polam Pandum"]
+      }
+    ]
+  },
+
+  "korwa": {
+    "id": "korwa",
+    "name": "Pahadi Korwa",
+    "subheading": "Vulnerable hill tribe living traditionally with deep dependence on forests",
+    "description": "About the Pahadi Korwa Tribe\n\n• Classified as a Particularly Vulnerable Tribal Group (PVTG)\n• Lives in hilly and forest areas of northern Chhattisgarh\n• Very limited influence of modern lifestyle\n\nLiving Style\n• Depends heavily on forests for survival\n• Lives in small huts made from mud and bamboo\n• Collects food from deep forest areas\n\nTraditional Skills\n• Archery and hunting skills\n• Making tools from forest materials\n• Strong knowledge of forest paths and nature\n\nFood Sources\n• Mahua collection\n• Roots, tubers, and wild fruits",
+    "image": "pahadi_korwa_life",
+    "uniqueTradition": "Traditional Archery",
+    "region": "Korba, Surguja, Jashpur (Chhattisgarh)",
+    "language": "Korwa / Sadri",
+    "gallery": ["hilly_forest", "traditional_hut", "forest_tools"],
+    "culture": [
+      {
+        "title": "About",
+        "type": "about",
+        "data": [
+          "Classified as PVTG",
+          "Lives in remote forest hills",
+          "Very limited modern influence"
+        ]
+      },
+      {
+        "title": "Living Style",
+        "type": "lifestyle",
+        "data": [
+          "Depends heavily on forests",
+          "Small huts made from mud and bamboo",
+          "Collects forest produce for survival"
+        ]
+      },
+      {
+        "title": "Traditional Skills",
+        "type": "skill",
+        "data": [
+          "Archery and hunting",
+          "Tool making from forest materials",
+          "Strong forest navigation skills"
+        ]
+      },
+      {
+        "title": "Food Sources",
+        "type": "food",
+        "data": ["Mahua", "Roots and tubers", "Wild fruits"]
+      }
+    ]
+  }
+}

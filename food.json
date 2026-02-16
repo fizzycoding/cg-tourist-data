@@ -1,0 +1,29 @@
+[
+  {
+    "id": "chapda",
+    "title": "Chapda Chutney",
+    "subtitle": "Spicy red ant chutney",
+    "image": "bhoramdeotemple",
+    "region": "Bastar",
+    "description": "Known as *Chapda*, this fiery red ant chutney is a traditional delicacy of the Bastar tribes. Made from dried red ants and their eggs, it's rich in formic acid and believed to cure ailments like fever and cough. The sharp, tangy taste combined with local spices makes it a truly unique culinary experience.",
+    "gallery": ["bhoramdeotemple", "chitrakotwaterfall", "teerathgarhfalls"]
+  },
+  {
+    "id": "mahua",
+    "title": "Mahua Daru",
+    "subtitle": "Traditional flower wine",
+    "image": "chitrakotwaterfall",
+    "region": "All Chhattisgarh",
+    "description": "Brewed from the fragrant flowers of the Mahua tree, this traditional wine is central to tribal culture. It is consumed during festivals, weddings, and social gatherings as a sacred offering and a community drink.",
+    "gallery": ["chitrakotwaterfall", "bhoramdeotemple", "teerathgarhfalls"]
+  },
+  {
+    "id": "mahua_gathering",
+    "title": "Mahua Gathering",
+    "subtitle": "Forest produce livelihood",
+    "image": "bhoramdeotemple",
+    "region": "All Chhattisgarh",
+    "description": "The collection of Mahua flowers is not just an economic activity but a seasonal event involving entire families. The flowers are dried and stored for year-round consumption and trade.",
+    "gallery": ["bhoramdeotemple", "teerathgarhfalls", "chitrakotwaterfall"]
+  }
+]

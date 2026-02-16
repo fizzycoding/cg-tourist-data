@@ -1,0 +1,111 @@
+{
+  "Korba": {
+    "famousFor": "Power Capital of India",
+    "about": "Korba is known as the Power Capital of Chhattisgarh. It is situated on the banks of the confluence of the Hasdeo and Ahiran rivers. The district is rich in mineral resources like coal and plays a pivotal role in the state's industrial growth. Historically, it was the territory of the Korwa tribe, from whom the district gets its name.",
+    "center": { "latitude": 22.3595, "longitude": 82.7501 },
+    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
+    "places": ["silver-jubilee-park", "hasdeo-bango-dam", "buka-lake"],
+    "tribes": ["korwa", "gond"],
+    "festivals": ["chaitra-navratri", "hareli"]
+  },
+
+  "Bastar": {
+    "famousFor": "Tribal Heartland & Waterfalls",
+    "about": "Bastar is famous for its unique tribal culture and traditional art forms. It is home to the majestic Chitrakote Falls, often called the Niagara of India.",
+    "center": { "latitude": 19.1071, "longitude": 81.9535 },
+    "images": ["chitrakotwaterfall", "teerathgarhfalls", "bhoramdeotemple"],
+    "places": ["chitrakot-falls", "teerathgarh-falls"],
+    "tribes": ["maria", "gond"],
+    "festivals": ["bastar-dussehra"]
+  },
+
+  "Raipur": {
+    "famousFor": "Capital City & Steel Hub",
+    "about": "Raipur is the capital city of Chhattisgarh and a major commercial hub. It blends modern infrastructure with traditional roots.",
+    "center": { "latitude": 21.2514, "longitude": 81.6296 },
+    "images": ["bhoramdeotemple", "teerathgarhfalls", "chitrakotwaterfall"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+
+  "Bilaspur": {
+    "famousFor": "Judicial Capital & Rice Bowl",
+    "about": "Bilaspur is known as the Judicial Capital of Chhattisgarh as it houses the High Court. It is also famous for its aromatic Doobraj rice.",
+    "center": { "latitude": 22.0797, "longitude": 82.1409 },
+    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+
+  "Durg": {
+    "famousFor": "Steel City (Bhilai)",
+    "about": "Durg district is home to the Bhilai Steel Plant, a symbol of modern industrial India. It is a major educational and industrial center.",
+    "center": { "latitude": 21.19, "longitude": 81.2849 },
+    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+
+  "Kabirdham": {
+    "famousFor": "Bhoramdeo Temple (Khajuraho of CG)",
+    "about": "Kabirdham is renowned for the Bhoramdeo Temple, an architectural marvel often referred to as the Khajuraho of Chhattisgarh.",
+    "center": { "latitude": 22.0085, "longitude": 81.2385 },
+    "images": ["bhoramdeotemple", "chitrakotwaterfall", "teerathgarhfalls"],
+    "places": ["bhoramdeo-temple"],
+    "tribes": ["baiga"],
+    "festivals": ["madai"]
+  },
+
+  "Surguja": {
+    "famousFor": "Mainpat (Shimla of CG)",
+    "about": "Surguja is known for its pristine forests and Mainpat, a hill station often called the 'Shimla of Chhattisgarh' due to its cool climate and Tibetan culture.",
+    "center": { "latitude": 23.1186, "longitude": 83.1956 },
+    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
+    "places": ["mainpat"],
+    "tribes": ["gond"],
+    "festivals": ["hareli"]
+  },
+
+  "Dantewada": {
+    "famousFor": "Danteshwari Temple",
+    "about": "Dantewada is a sacred land, home to the Danteshwari Temple, one of the Shakti Peethas.",
+    "center": { "latitude": 18.9003, "longitude": 81.3509 },
+    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+
+  "Jashpur": {
+    "famousFor": "Forests & Waterfalls",
+    "about": "Jashpur is a land of dense forests and stunning waterfalls. It is known for its tribal population and rich biodiversity.",
+    "center": { "latitude": 22.887, "longitude": 84.138 },
+    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+
+  "Koriya": {
+    "famousFor": "Natural Beauty & Waterfalls",
+    "about": "Koriya is known for its scenic beauty, dense forests, and mesmerizing waterfalls like Amrit Dhara.",
+    "center": { "latitude": 23.33, "longitude": 82.56 },
+    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+
+  "Default": {
+    "famousFor": "Explore Chhattisgarh",
+    "about": "Discover the beauty and culture of Chhattisgarh.",
+    "center": { "latitude": 21.2787, "longitude": 81.8661 },
+    "images": [],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  }
+}

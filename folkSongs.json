@@ -1,0 +1,29 @@
+[
+  {
+    "id": "karma_gane",
+    "title": "Karma Gane",
+    "subtitle": "Songs of life & nature",
+    "image": "teerathgarhfalls",
+    "description": "Karma Gane ('Karma Songs') are sung during the Karma Festival, a celebration of trees and nature. Men and women sing and dance around a Karam branch planted in the village square, expressing joy, sorrow, and devotion to nature.",
+    "audioUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3",
+    "youtubeUrl": "aw"
+  },
+  {
+    "id": "sua_songs",
+    "title": "Sua Songs",
+    "subtitle": "Women's parrot songs",
+    "image": "chitrakotwaterfall",
+    "description": "Exclusively performed by women, Sua songs ('Parrot Songs') involve carrying a basket with a parrot idol on the head. The songs narrate stories of separation and longing, using the parrot as a messenger.",
+    "audioUrl": "",
+    "youtubeUrl": ""
+  },
+  {
+    "id": "traditional_archery",
+    "title": "Traditional Archery",
+    "subtitle": "Mastery of bow & arrow",
+    "image": "teerathgarhfalls",
+    "description": "More than a sport, archery is a survival skill and a cultural identity for the Pahadi Korwa tribe. It represents their deep connection with the forest and ancestral hunting traditions.",
+    "audioUrl": "",
+    "youtubeUrl": ""
+  }
+]

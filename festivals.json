@@ -1,0 +1,238 @@
+{
+  "bastar-dussehra": {
+    "id": "bastar-dussehra",
+    "name": "Bastar Dussehra",
+    "tagline": "World's Longest Festival",
+    "month": "Aug - Oct",
+    "months": ["Aug", "Sep", "Oct"],
+    "duration": "75 Days",
+    "location": "Jagdalpur, Bastar",
+    "description": "The world's longest festival celebrating Goddess Danteshwari with unique tribal rituals.",
+    "image": "chitrakotwaterfall",
+    "deity": "Danteshwari",
+    "season": "Autumn",
+    "districtId": "Bastar",
+    "festivalType": "Religious",
+    "whoCelebrates": ["Gond", "Maria", "Muria", "Halba"],
+    "meaning": "Unlike the traditional Ramayana-based Dussehra, Bastar Dussehra is a 75-day long celebration dedicated to the indigenous deity **Ma Danteshwari**. It is a profound expression of tribal unity, where nature, royalty, and local deities converge in a series of unique rituals.\n\nThe festival originated in the 13th century and has been preserved by the Bastar royal family and the local tribes. It is not a celebration of Rama's victory over Ravana, but a thanksgiving to the nature goddess for her protection and health.",
+    "traditions": [
+      {
+        "title": "Path Jatra",
+        "description": "The ritual marking the beginning of chariot construction with logs from the forest.",
+        "icon": "hammer"
+      },
+      {
+        "title": "Kachin Gadi",
+        "description": "A young girl from the Weaver community grants permission to begin the festival while seated on a swing of thorns.",
+        "icon": "swing"
+      },
+      {
+        "title": "Rath Parikrama",
+        "description": "Massive wooden chariots, pulled by thousands of tribals, circuit the city of Jagdalpur.",
+        "icon": "bus"
+      }
+    ],
+    "gallery": ["chitrakotwaterfall", "bhoramdeotemple", "teerathgarhfalls"]
+  },
+  "charta": {
+    "id": "charta",
+    "name": "Charta Festival",
+    "tagline": "Harvest Celebration",
+    "month": "December",
+    "months": ["Dec"],
+    "duration": "1 Day",
+
+    "location": "Koriya, Surguja",
+    "description": "A harvest festival celebrated by the tribes of Koriya region.",
+    "image": "amritdhara",
+    "season": "Winter",
+    "districtId": "Koriya",
+    "festivalType": "Harvest",
+    "whoCelebrates": ["Korwa", "Gond"],
+    "meaning": "",
+    "deity": "Local Deity",
+    "traditions": [],
+    "gallery": ["amritdhara"]
+  },
+  "navakhai": {
+    "id": "navakhai",
+    "name": "Navakhai",
+    "tagline": "New Rice Festival",
+    "month": "September",
+    "months": ["Sep"],
+    "duration": "1 Day",
+
+    "location": "All Chhattisgarh",
+    "description": "Celebrated to welcome the new rice harvest, offered first to the deities.",
+    "image": "mainpat",
+    "season": "Post-Monsoon",
+    "districtId": "All",
+    "festivalType": "Harvest",
+    "whoCelebrates": ["Gond", "Oraon", "Kanwar"],
+    "meaning": "",
+    "deity": "Annapurna",
+    "traditions": [],
+    "gallery": ["mainpat"]
+  },
+  "surhul": {
+    "id": "surhul",
+    "name": "Surhul",
+    "tagline": "Worship of Nature",
+    "month": "March",
+    "months": ["Mar"],
+    "duration": "3 Days",
+    "location": "Jashpur, Raigarh",
+    "description": "Focused on the worship of Mother Earth and the Sal tree.",
+    "image": "kangerValley",
+    "season": "Spring",
+    "districtId": "Jashpur",
+    "festivalType": "Nature Worship",
+    "whoCelebrates": ["Oraon", "Munda"],
+    "meaning": "",
+    "deity": "Sal Tree",
+    "traditions": [],
+    "gallery": ["kangerValley"]
+  },
+  "narayanpur-mela": {
+    "id": "narayanpur-mela",
+    "name": "Narayanpur Mela",
+    "tagline": "Tribal Congregation",
+    "month": "February",
+    "months": ["Feb"],
+    "duration": "1 Week",
+
+    "location": "Narayanpur",
+    "description": "One of the biggest tribal fairs in the region.",
+    "image": "bhoramdeotemple",
+    "season": "Winter",
+    "districtId": "Narayanpur",
+    "festivalType": "Fair",
+    "whoCelebrates": ["Abujhmaria", "Gond"],
+    "meaning": "",
+    "deity": "Local Deity",
+    "traditions": [],
+    "gallery": ["bhoramdeotemple"]
+  },
+  "koriya-mela": {
+    "id": "koriya-mela",
+    "name": "Koriya Mela",
+    "tagline": "Cultural Fair",
+    "month": "January",
+    "months": ["Jan"],
+    "duration": "3 Days",
+    "location": "Baikunthpur",
+    "description": "Showcases the rich culture and traditions of the Koriya district.",
+    "image": "amritdhara",
+    "season": "Winter",
+    "districtId": "Koriya",
+    "festivalType": "Fair",
+    "whoCelebrates": ["All Communities"],
+    "meaning": "",
+    "deity": "N/A",
+    "traditions": [],
+    "gallery": ["amritdhara"]
+  },
+  "fagun-wadai": {
+    "id": "fagun-wadai",
+    "name": "Fagun Wadai",
+    "tagline": "Spring Festival",
+    "month": "March",
+    "months": ["Mar"],
+    "duration": "4 Days",
+
+    "location": "Dantewada",
+    "description": "Celebrated in Dantewada with great enthusiasm before Holi.",
+    "image": "danteshwari",
+    "season": "Spring",
+    "districtId": "Dantewada",
+    "festivalType": "Religious",
+    "whoCelebrates": ["Gond", "Maria"],
+    "meaning": "",
+    "deity": "Danteshwari",
+    "traditions": [],
+    "gallery": ["danteshwari"]
+  },
+  "hareli": {
+    "id": "hareli",
+    "name": "Hareli Festival",
+    "tagline": "Festival of Greenery",
+    "month": "July",
+    "months": ["Jul"],
+    "duration": "1 Day",
+
+    "location": "All Chhattisgarh",
+    "description": "The primary harvest festival of Chhattisgarh where farmers worship their tools and cows.",
+    "image": "teerathgarhfalls",
+    "deity": "Kutki Dai",
+    "season": "Monsoon",
+    "districtId": "All",
+    "festivalType": "Harvest",
+    "whoCelebrates": ["Gond", "Baiga", "Farmers"],
+    "meaning": "Hareli, derived from the Hindi word 'Haryali' meaning greenery, marks the beginning of the agricultural season. Farmers worship their farm equipment and cows, praying for a good harvest.",
+    "traditions": [
+      {
+        "title": "Tool Worship",
+        "description": "Farmers clean and worship their agricultural tools.",
+        "icon": "hammer"
+      },
+      {
+        "title": "Gedi Race",
+        "description": "Children and men walk on bamboo stilts (Gedi) through the muddy fields.",
+        "icon": "footprints"
+      }
+    ],
+    "gallery": ["teerathgarhfalls", "mainpat"]
+  },
+  "madai": {
+    "id": "madai",
+    "name": "Madai Festival",
+    "tagline": "The Traveling Fair",
+    "month": "Dec - March",
+    "months": ["Dec", "Jan", "Feb", "Mar"],
+    "duration": "Regional",
+
+    "location": "Narayanpur, Kondagaon",
+    "description": "A magnificent traveling fair held across different tribal regions, famous for its grandeur.",
+    "image": "bhoramdeotemple",
+    "deity": "Anga Deo",
+    "season": "Winter",
+    "districtId": "Narayanpur",
+    "festivalType": "Fair",
+    "whoCelebrates": ["Abujhmaria", "Gond", "Muria"],
+    "meaning": "Madai is a traveling festival that moves from one village to another. It is a time for tribes to meet, trade, and celebrate their local deities.",
+    "traditions": [
+      {
+        "title": "Procession",
+        "description": "The procession of the local deity, Anga Deo, is the main attraction.",
+        "icon": "users"
+      }
+    ],
+    "gallery": ["bhoramdeotemple", "kangerValley"]
+  },
+  "rajim-maghi-punni": {
+    "id": "rajim-maghi-punni",
+    "name": "Rajim Maghi Punni",
+    "tagline": "Kumbh of Chhattisgarh",
+    "month": "February",
+    "months": ["Feb"],
+    "duration": "Magh Purnima",
+
+    "location": "Rajim, Gariaband",
+    "description": "Held at the confluence of Mahanadi, Pairi, and Sondur rivers, known as the Kumbh of Chhattisgarh.",
+    "image": "mainpat",
+    "deity": "Rajiv Lochan",
+    "season": "Winter",
+    "districtId": "Gariaband",
+    "festivalType": "Religious",
+    "whoCelebrates": ["All Communities"],
+    "meaning": "A holy gathering at the Triveni Sangam (confluence of three rivers). Devotees take holy dips and perform rituals similar to the Kumbh Mela.",
+    "traditions": [
+      {
+        "title": "Holy Dip",
+        "description": "Devotees take a holy dip in the river confluence at sunrise.",
+        "icon": "droplets"
+      }
+    ],
+    "gallery": ["mainpat", "mmfun"]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "chitrakot-falls": {
+    "id": "chitrakot-falls",
+    "name": "Chitrakot Waterfalls",
+    "districtId": "Bastar",
+    "category": "Waterfall",
+    "image": "chitrakotwaterfall",
+    "gallery": ["chitrakotwaterfall", "teerathgarhfalls"],
+    "description": "Known as the Niagara of India, this is the widest waterfall in India.",
+    "location": {
+      "latitude": 19.2059,
+      "longitude": 81.7016
+    }
+  },
+  "teerathgarh-falls": {
+    "id": "teerathgarh-falls",
+    "name": "Teerathgarh Waterfalls",
+    "districtId": "Bastar",
+    "category": "Waterfall",
+    "image": "teerathgarhfalls",
+    "gallery": ["teerathgarhfalls", "chitrakotwaterfall"],
+    "description": "A stunning multi-tiered waterfall inside Kanger Valley National Park.",
+    "location": {
+      "latitude": 18.9125,
+      "longitude": 81.8669
+    }
+  },
+  "silver-jubilee-park": {
+    "id": "silver-jubilee-park",
+    "name": "Silver Jubilee Park",
+    "districtId": "Korba",
+    "category": "Park",
+    "image": "teerathgarhfalls",
+    "gallery": ["teerathgarhfalls"],
+    "description": "A beautiful park in the heart of Korba, perfect for evening walks and boating.",
+    "location": {
+      "latitude": 22.35,
+      "longitude": 82.68
+    }
+  },
+  "hasdeo-bango-dam": {
+    "id": "hasdeo-bango-dam",
+    "name": "Hasdeo Bango Dam",
+    "districtId": "Korba",
+    "category": "Dam",
+    "image": "chitrakotwaterfall",
+    "gallery": ["chitrakotwaterfall"],
+    "description": "One of the largest dams in Chhattisgarh, offering scenic views and water sports.",
+    "location": {
+      "latitude": 22.6,
+      "longitude": 82.6
+    }
+  },
+  "buka-lake": {
+    "id": "buka-lake",
+    "name": "Buka Lake (Golden Island)",
+    "districtId": "Korba",
+    "category": "Lake",
+    "image": "bhoramdeotemple",
+    "gallery": ["bhoramdeotemple"],
+    "description": "An emerging eco-tourism spot known for its island-like vibe and boating.",
+    "location": {
+      "latitude": 22.5,
+      "longitude": 82.5
+    }
+  },
+  "mainpat": {
+    "id": "mainpat",
+    "name": "Mainpat",
+    "districtId": "Surguja",
+    "category": "Hill Station",
+    "image": "teerathgarhfalls",
+    "gallery": ["teerathgarhfalls", "mainpat"],
+    "description": "Known as the Shimla of Chhattisgarh, famous for Tibetan settlements.",
+    "location": {
+      "latitude": 22.8222,
+      "longitude": 83.2847
+    }
+  }
+}
