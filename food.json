@@ -5,7 +5,7 @@
     "subtitle": "Spicy red ant chutney",
     "image": "bhoramdeotemple",
     "region": "Bastar",
-    "description": "Known as *Chapda*, this fiery red ant chutney is a traditional delicacy of the Bastar tribes. Made from dried red ants and their eggs, it's rich in formic acid and believed to cure ailments like fever and cough. The sharp, tangy taste combined with local spices makes it a truly unique culinary experience.",
+    "description": "Known as Chapda, this fiery red ant chutney is a traditional delicacy of the Bastar tribes. Made from dried red ants and their eggs, it is rich in formic acid and believed to cure ailments like fever and cough. The sharp, tangy taste combined with local spices makes it unique.",
     "gallery": ["bhoramdeotemple", "chitrakotwaterfall", "teerathgarhfalls"]
   },
   {
@@ -14,7 +14,7 @@
     "subtitle": "Traditional flower wine",
     "image": "chitrakotwaterfall",
     "region": "All Chhattisgarh",
-    "description": "Brewed from the fragrant flowers of the Mahua tree, this traditional wine is central to tribal culture. It is consumed during festivals, weddings, and social gatherings as a sacred offering and a community drink.",
+    "description": "Brewed from the fragrant flowers of the Mahua tree, this traditional wine is central to tribal culture. It is consumed during festivals, weddings, and social gatherings as a sacred community drink.",
     "gallery": ["chitrakotwaterfall", "bhoramdeotemple", "teerathgarhfalls"]
   },
   {
@@ -23,7 +23,52 @@
     "subtitle": "Forest produce livelihood",
     "image": "bhoramdeotemple",
     "region": "All Chhattisgarh",
-    "description": "The collection of Mahua flowers is not just an economic activity but a seasonal event involving entire families. The flowers are dried and stored for year-round consumption and trade.",
+    "description": "The collection of Mahua flowers is a seasonal activity involving entire families. Flowers are dried and stored for year-round use in food, liquor, and traditional medicine.",
     "gallery": ["bhoramdeotemple", "teerathgarhfalls", "chitrakotwaterfall"]
+  },
+  {
+    "id": "chila",
+    "title": "Chila",
+    "subtitle": "Rice flour pancake",
+    "image": "forest_village",
+    "region": "Central & Northern Chhattisgarh",
+    "description": "Chila is a simple pancake made from rice flour and water. It is commonly eaten for breakfast and is often served with chutney or forest vegetables.",
+    "gallery": ["forest_village", "tribal_kitchen", "village_food"]
+  },
+  {
+    "id": "bore_basi",
+    "title": "Bore Basi",
+    "subtitle": "Fermented rice meal",
+    "image": "tribal_kitchen",
+    "region": "All Chhattisgarh",
+    "description": "Bore Basi is a traditional dish made by soaking cooked rice overnight in water. It is eaten in the morning, especially during summers, and is known for keeping the body cool and improving digestion.",
+    "gallery": ["tribal_kitchen", "village_food", "summer_meal"]
+  },
+  {
+    "id": "pej",
+    "title": "Pej",
+    "subtitle": "Rice water drink",
+    "image": "village_food",
+    "region": "Tribal regions of Chhattisgarh",
+    "description": "Pej is a light rice water drink prepared during rice cooking. It is nutritious, easy to digest, and commonly consumed by elders and children.",
+    "gallery": ["village_food", "tribal_kitchen", "simple_meal"]
+  },
+  {
+    "id": "kodo_kutki",
+    "title": "Kodo–Kutki Rice",
+    "subtitle": "Nutritious millet meal",
+    "image": "forest_grains",
+    "region": "Bastar, Surguja",
+    "description": "Kodo and Kutki are traditional millets grown by tribal communities. They are highly nutritious and used to prepare rice, porridge, and rotis.",
+    "gallery": ["forest_grains", "millet_farming", "tribal_fields"]
+  },
+  {
+    "id": "sukha_sag",
+    "title": "Sukha Saag",
+    "subtitle": "Dry forest greens",
+    "image": "forest_food",
+    "region": "Forest regions of Chhattisgarh",
+    "description": "Sukha Saag is made from dried forest leafy vegetables. It is cooked with minimal spices and reflects the tribes’ deep knowledge of edible forest plants.",
+    "gallery": ["forest_food", "tribal_kitchen", "local_greens"]
   }
 ]
