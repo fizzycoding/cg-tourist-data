@@ -6,7 +6,15 @@
     "image": "bhoramdeotemple",
     "region": "Bastar",
     "description": "Known as Chapda, this fiery red ant chutney is a traditional delicacy of the Bastar tribes. Made from dried red ants and their eggs, it is rich in formic acid and believed to cure ailments like fever and cough. The sharp, tangy taste combined with local spices makes it unique.",
-    "gallery": ["bhoramdeotemple", "chitrakotwaterfall", "teerathgarhfalls"]
+    "gallery": ["bhoramdeotemple", "chitrakotwaterfall", "teerathgarhfalls"],
+    "sections": [
+      {
+        "title": "Where to Find",
+        "type": "place",
+        "details": "Best tasted near **Chitrakot Waterfalls**.",
+        "data": ["chitrakot-falls"]
+      }
+    ]
   },
   {
     "id": "mahua",
@@ -15,7 +23,8 @@
     "image": "chitrakotwaterfall",
     "region": "All Chhattisgarh",
     "description": "Brewed from the fragrant flowers of the Mahua tree, this traditional wine is central to tribal culture. It is consumed during festivals, weddings, and social gatherings as a sacred community drink.",
-    "gallery": ["chitrakotwaterfall", "bhoramdeotemple", "teerathgarhfalls"]
+    "gallery": ["chitrakotwaterfall", "bhoramdeotemple", "teerathgarhfalls"],
+    "sections": []
   },
   {
     "id": "mahua_gathering",
@@ -24,7 +33,8 @@
     "image": "bhoramdeotemple",
     "region": "All Chhattisgarh",
     "description": "The collection of Mahua flowers is a seasonal activity involving entire families. Flowers are dried and stored for year-round use in food, liquor, and traditional medicine.",
-    "gallery": ["bhoramdeotemple", "teerathgarhfalls", "chitrakotwaterfall"]
+    "gallery": ["bhoramdeotemple", "teerathgarhfalls", "chitrakotwaterfall"],
+    "sections": []
   },
   {
     "id": "chila",
@@ -33,7 +43,8 @@
     "image": "forest_village",
     "region": "Central & Northern Chhattisgarh",
     "description": "Chila is a simple pancake made from rice flour and water. It is commonly eaten for breakfast and is often served with chutney or forest vegetables.",
-    "gallery": ["forest_village", "tribal_kitchen", "village_food"]
+    "gallery": ["forest_village", "tribal_kitchen", "village_food"],
+    "sections": []
   },
   {
     "id": "bore_basi",
@@ -42,7 +53,8 @@
     "image": "tribal_kitchen",
     "region": "All Chhattisgarh",
     "description": "Bore Basi is a traditional dish made by soaking cooked rice overnight in water. It is eaten in the morning, especially during summers, and is known for keeping the body cool and improving digestion.",
-    "gallery": ["tribal_kitchen", "village_food", "summer_meal"]
+    "gallery": ["tribal_kitchen", "village_food", "summer_meal"],
+    "sections": []
   },
   {
     "id": "pej",
@@ -51,7 +63,8 @@
     "image": "village_food",
     "region": "Tribal regions of Chhattisgarh",
     "description": "Pej is a light rice water drink prepared during rice cooking. It is nutritious, easy to digest, and commonly consumed by elders and children.",
-    "gallery": ["village_food", "tribal_kitchen", "simple_meal"]
+    "gallery": ["village_food", "tribal_kitchen", "simple_meal"],
+    "sections": []
   },
   {
     "id": "kodo_kutki",
@@ -60,7 +73,8 @@
     "image": "forest_grains",
     "region": "Bastar, Surguja",
     "description": "Kodo and Kutki are traditional millets grown by tribal communities. They are highly nutritious and used to prepare rice, porridge, and rotis.",
-    "gallery": ["forest_grains", "millet_farming", "tribal_fields"]
+    "gallery": ["forest_grains", "millet_farming", "tribal_fields"],
+    "sections": []
   },
   {
     "id": "sukha_sag",
@@ -69,6 +83,7 @@
     "image": "forest_food",
     "region": "Forest regions of Chhattisgarh",
     "description": "Sukha Saag is made from dried forest leafy vegetables. It is cooked with minimal spices and reflects the tribes’ deep knowledge of edible forest plants.",
-    "gallery": ["forest_food", "tribal_kitchen", "local_greens"]
+    "gallery": ["forest_food", "tribal_kitchen", "local_greens"],
+    "sections": []
   }
 ]
