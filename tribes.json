@@ -11,31 +11,30 @@
     "gallery": ["bison_horn_dance", "forest_village", "traditional_dance"],
     "culture": [
       {
-        "title": "About",
-        "type": "about",
-        "data": [
-          "Lives mainly in forest regions",
-          "Strong community bonding",
-          "Deep connection with nature"
-        ]
-      },
-      {
         "title": "Daily Life",
         "type": "lifestyle",
         "data": [
-          "Farming and forest produce collection",
-          "Hunting and fishing",
-          "Mud and thatched houses"
+          {
+            "title": "Farming and forest produce collection",
+            "image": "",
+            "description": "Farming and forest produce collection"
+          },
+          {
+            "title": "Hunting and fishing",
+            "image": "",
+            "description": "Hunting and fishing"
+          },
+          {
+            "title": "Mud and thatched houses",
+            "image": "",
+            "description": "Mud and thatched houses"
+          }
         ]
       },
       {
         "title": "Food Habits",
         "type": "food",
-        "data": [
-          "sukha_sag",
-          "Chapda (red ant chutney)",
-          "Mahua flowers and forest vegetables"
-        ]
+        "data": ["sukha_sag"]
       },
       {
         "title": "Festivals",
@@ -45,7 +44,18 @@
       {
         "title": "Dance & Music",
         "type": "dance",
-        "data": ["Bison Horn Dance", "Traditional drums and folk songs"]
+        "data": [
+          {
+            "title": "Bison Horn Dance",
+            "image": "",
+            "description": "Bison Horn Dance"
+          },
+          {
+            "title": "Traditional drums and folk songs",
+            "image": "",
+            "description": "Traditional drums and folk songs"
+          }
+        ]
       }
     ]
   },
@@ -65,27 +75,63 @@
         "title": "About",
         "type": "about",
         "data": [
-          "One of the largest tribes in India",
-          "Rich art and folklore",
-          "Strong belief in nature worship"
+          {
+            "title": "One of the largest tribes in India",
+            "image": "",
+            "description": "One of the largest tribes in India"
+          },
+          {
+            "title": "Rich art and folklore",
+            "image": "",
+            "description": "Rich art and folklore"
+          },
+          {
+            "title": "Strong belief in nature worship",
+            "image": "",
+            "description": "Strong belief in nature worship"
+          }
         ]
       },
       {
         "title": "Beliefs",
         "type": "belief",
         "data": [
-          "Worship trees, animals, and rivers",
-          "Nature is considered sacred",
-          "Spiritual connection with environment"
+          {
+            "title": "Worship trees, animals, and rivers",
+            "image": "",
+            "description": "Worship trees, animals, and rivers"
+          },
+          {
+            "title": "Nature is considered sacred",
+            "image": "",
+            "description": "Nature is considered sacred"
+          },
+          {
+            "title": "Spiritual connection with environment",
+            "image": "",
+            "description": "Spiritual connection with environment"
+          }
         ]
       },
       {
         "title": "Art & Craft",
         "type": "art",
         "data": [
-          "Gond paintings made with dots and lines",
-          "Paintings show animals and daily life",
-          "Art passed through generations"
+          {
+            "title": "Gond paintings made with dots and lines",
+            "image": "",
+            "description": "Gond paintings made with dots and lines"
+          },
+          {
+            "title": "Paintings show animals and daily life",
+            "image": "",
+            "description": "Paintings show animals and daily life"
+          },
+          {
+            "title": "Art passed through generations",
+            "image": "",
+            "description": "Art passed through generations"
+          }
         ]
       },
       {
@@ -116,27 +162,63 @@
         "title": "About",
         "type": "about",
         "data": [
-          "Classified as PVTG",
-          "Lives in remote forest hills",
-          "Very limited modern influence"
+          {
+            "title": "Classified as PVTG",
+            "image": "",
+            "description": "Classified as PVTG"
+          },
+          {
+            "title": "Lives in remote forest hills",
+            "image": "",
+            "description": "Lives in remote forest hills"
+          },
+          {
+            "title": "Very limited modern influence",
+            "image": "",
+            "description": "Very limited modern influence"
+          }
         ]
       },
       {
         "title": "Living Style",
         "type": "lifestyle",
         "data": [
-          "Depends heavily on forests",
-          "Small huts made from mud and bamboo",
-          "Collects forest produce for survival"
+          {
+            "title": "Depends heavily on forests",
+            "image": "",
+            "description": "Depends heavily on forests"
+          },
+          {
+            "title": "Small huts made from mud and bamboo",
+            "image": "",
+            "description": "Small huts made from mud and bamboo"
+          },
+          {
+            "title": "Collects forest produce for survival",
+            "image": "",
+            "description": "Collects forest produce for survival"
+          }
         ]
       },
       {
         "title": "Traditional Skills",
         "type": "skill",
         "data": [
-          "Archery and hunting",
-          "Tool making from forest materials",
-          "Strong forest navigation skills"
+          {
+            "title": "Archery and hunting",
+            "image": "",
+            "description": "Archery and hunting"
+          },
+          {
+            "title": "Tool making from forest materials",
+            "image": "",
+            "description": "Tool making from forest materials"
+          },
+          {
+            "title": "Strong forest navigation skills",
+            "image": "",
+            "description": "Strong forest navigation skills"
+          }
         ]
       },
       {
@@ -147,4 +229,3 @@
     ]
   }
 }
-
