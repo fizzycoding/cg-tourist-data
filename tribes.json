@@ -32,7 +32,7 @@
         "title": "Food Habits",
         "type": "food",
         "data": [
-          "Rice as staple food",
+          "sukha_sag",
           "Chapda (red ant chutney)",
           "Mahua flowers and forest vegetables"
         ]
@@ -147,3 +147,4 @@
     ]
   }
 }
+
