@@ -10,7 +10,21 @@
     "location": {
       "latitude": 19.2059,
       "longitude": 81.7016
-    }
+    },
+    "sections": [
+      {
+        "title": "Culture & Festivals",
+        "type": "festival",
+        "details": "Experience the grand **Bastar Dussehra** nearby.",
+        "data": ["bastar-dussehra"]
+      },
+      {
+        "title": "Local Cuisine",
+        "type": "food",
+        "details": "Don't miss the unique **Chapda Chutney**.",
+        "data": ["chapda"]
+      }
+    ]
   },
   "teerathgarh-falls": {
     "id": "teerathgarh-falls",
@@ -23,7 +37,8 @@
     "location": {
       "latitude": 18.9125,
       "longitude": 81.8669
-    }
+    },
+    "sections": []
   },
   "silver-jubilee-park": {
     "id": "silver-jubilee-park",
@@ -36,7 +51,8 @@
     "location": {
       "latitude": 22.35,
       "longitude": 82.68
-    }
+    },
+    "sections": []
   },
   "hasdeo-bango-dam": {
     "id": "hasdeo-bango-dam",
@@ -49,7 +65,8 @@
     "location": {
       "latitude": 22.6,
       "longitude": 82.6
-    }
+    },
+    "sections": []
   },
   "buka-lake": {
     "id": "buka-lake",
@@ -62,7 +79,8 @@
     "location": {
       "latitude": 22.5,
       "longitude": 82.5
-    }
+    },
+    "sections": []
   },
   "mainpat": {
     "id": "mainpat",
@@ -75,6 +93,7 @@
     "location": {
       "latitude": 22.8222,
       "longitude": 83.2847
-    }
+    },
+    "sections": []
   }
 }
