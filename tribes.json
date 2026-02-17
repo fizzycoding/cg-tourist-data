@@ -9,7 +9,7 @@
     "region": "Abujmarh, Bastar (Chhattisgarh)",
     "language": "Gondi / Abuj Maria",
     "gallery": ["bison_horn_dance", "forest_village", "traditional_dance"],
-    "culture": [
+    "sections": [
       {
         "title": "Daily Life",
         "type": "lifestyle",
@@ -37,12 +37,6 @@
         "type": "food",
         "details": "Their diet consists mainly of **rice**, **millets**, and naturally available forest produce.",
         "data": ["sukha_sag"]
-      },
-      {
-        "title": "Festivals",
-        "type": "festival",
-        "details": "Festivals are a time of great joy, celebrated with **traditional dances** and community feasts.",
-        "data": ["Bastar Dussehra", "Madai Festival"]
       },
       {
         "title": "Dance & Music",
@@ -74,7 +68,7 @@
     "region": "Bastar and South Chhattisgarh",
     "language": "Gondi (Koitur)",
     "gallery": ["gond_painting", "tribal_village", "festival_celebration"],
-    "culture": [
+    "sections": [
       {
         "title": "About",
         "type": "about",
@@ -166,7 +160,7 @@
     "region": "Korba, Surguja, Jashpur (Chhattisgarh)",
     "language": "Korwa / Sadri",
     "gallery": ["hilly_forest", "traditional_hut", "forest_tools"],
-    "culture": [
+    "sections": [
       {
         "title": "About",
         "type": "about",
