@@ -32,7 +32,21 @@
         "icon": "bus"
       }
     ],
-    "gallery": ["chitrakotwaterfall", "bhoramdeotemple", "teerathgarhfalls"]
+    "gallery": ["chitrakotwaterfall", "bhoramdeotemple", "teerathgarhfalls"],
+    "sections": [
+      {
+        "title": "Major Locations",
+        "type": "place",
+        "details": "Major celebrations happen near **Chitrakot Falls**.",
+        "data": ["chitrakot-falls"]
+      },
+      {
+        "title": "Traditional Food",
+        "type": "food",
+        "details": "Feasts often include **Chapda Chutney**.",
+        "data": ["chapda"]
+      }
+    ]
   },
   "charta": {
     "id": "charta",
@@ -52,7 +66,8 @@
     "meaning": "",
     "deity": "Local Deity",
     "traditions": [],
-    "gallery": ["amritdhara"]
+    "gallery": ["amritdhara"],
+    "sections": []
   },
   "navakhai": {
     "id": "navakhai",
@@ -72,7 +87,8 @@
     "meaning": "",
     "deity": "Annapurna",
     "traditions": [],
-    "gallery": ["mainpat"]
+    "gallery": ["mainpat"],
+    "sections": []
   },
   "surhul": {
     "id": "surhul",
@@ -91,7 +107,8 @@
     "meaning": "",
     "deity": "Sal Tree",
     "traditions": [],
-    "gallery": ["kangerValley"]
+    "gallery": ["kangerValley"],
+    "sections": []
   },
   "narayanpur-mela": {
     "id": "narayanpur-mela",
