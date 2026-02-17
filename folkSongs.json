@@ -1,18 +1,20 @@
 [
   {
-    "id": "karma_gane",
-    "title": "Karma Gane",
+    "id": "karma_geet",
+    "title": "Karma Geet",
     "subtitle": "Songs of life & nature",
     "image": "teerathgarhfalls",
-    "description": "Karma Gane ('Karma Songs') are sung during the Karma Festival, a celebration of trees and nature. Men and women sing and dance around a Karam branch planted in the village square, expressing joy, sorrow, and devotion to nature.",
-    "audioUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3",
-    "youtubeUrl": "",
+    "description": "Karma Geet ('Karma Songs') are sung during the Karma Festival, a celebration of trees and nature. Men and women sing and dance around a Karam branch planted in the village square, expressing joy, sorrow, and devotion to nature.",
+    "audioUrl": "",
+    "youtubeUrl": "https://youtu.be/PiU219zoy6A?si=w5UGprbisuhFrEZT",
     "sections": [
       {
         "title": "Performed At",
         "type": "festival",
         "details": "Often performed during **Bastar Dussehra**.",
-        "data": ["bastar-dussehra"]
+        "data": [
+          "bastar-dussehra"
+        ]
       }
     ]
   },
@@ -27,11 +29,60 @@
     "sections": []
   },
   {
-    "id": "traditional_archery",
-    "title": "Traditional Archery",
-    "subtitle": "Mastery of bow & arrow",
-    "image": "teerathgarhfalls",
-    "description": "More than a sport, archery is a survival skill and a cultural identity for the Pahadi Korwa tribe. It represents their deep connection with the forest and ancestral hunting traditions.",
+    "id": "panthi",
+    "title": "Panthi Dance",
+    "subtitle": "panthi dance is devotional dance dedicated to guru ghasidas",
+    "image": "panthi",
+    "description": "Panthi Dance is considered one of the fastest and most energetic folk dances of Chhattisgarh.It is performed by the Satnami community in honor of Guru Ghasidas, featuring rapid movements, rhythmic steps, and powerful acrobatic formations.",
+    "audioUrl": "",
+    "youtubeUrl": "",
+    "sections": [
+      {
+        "title": "Performed At",
+        "type": "ghasidas jayanti",
+        "details": "Often performed during **ghasidas jayanti**.",
+        "data": [
+          "ghasidas-jayanti"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "raut_nacha",
+    "title": "Raut Nacha",
+    "subtitle": "Traditional warrior dance of Yadav community",
+    "image": "raut_nacha",
+    "description": "Raut Nacha is a traditional folk dance of Chhattisgarh performed mainly by the Yadav (Raut) community after Diwali, especially on Dev Uthani Ekadashi. It symbolizes bravery, devotion to Lord Krishna, and pastoral culture. Performers wear colorful costumes, carry sticks or swords, and dance rhythmically to the beats of dhol and mandar.",
+    "audioUrl": "",
+    "youtubeUrl": "",
+    "sections": []
+  },
+  {
+    "id": "danda",
+    "title": "Danda nach",
+    "subtitle": "Stick dance of Chhattisgarh",
+    "image": "danda",
+    "description": "Danda Nach is performed with sticks in synchronized movements. It is energetic and usually performed during festive occasions.",
+    "audioUrl": "",
+    "youtubeUrl": "",
+    "sections": []
+  },
+  {
+    "id": "gaur",
+    "title": "Gaur Dance",
+    "subtitle": "Bison horn tribal dance",
+    "image": "gaur",
+    "description": "Gaur Dance is performed by the Maria tribe of Bastar. Dancers wear headgear decorated with bison horns and perform powerful movements symbolizing bravery.",
+    "audioUrl": "",
+    "youtubeUrl": "",
+    "sections": []
+  },
+  {
+    "id": "pandwani",
+    "title": "Pandwani",
+    "subtitle": "Epic storytelling tradition of Mahabharata",
+    "image": "pandwani",
+    "description": "Pandwani is a traditional folk singing style of Chhattisgarh based on stories from the Mahabharata. The performer narrates tales of the Pandavas with dramatic expressions, powerful voice modulation, and minimal musical instruments. It is usually performed in two styles — Vedamati (calm narration) and Kapalik (dramatic and expressive). Teejan Bai is one of the most famous exponents of Pandwani.",
     "audioUrl": "",
     "youtubeUrl": "",
     "sections": []

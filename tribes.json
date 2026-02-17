@@ -8,7 +8,11 @@
     "uniqueTradition": "Bison Horn Dance",
     "region": "Abujmarh, Bastar (Chhattisgarh)",
     "language": "Gondi / Abuj Maria",
-    "gallery": ["bison_horn_dance", "forest_village", "traditional_dance"],
+    "gallery": [
+      "bison_horn_dance",
+      "forest_village",
+      "traditional_dance"
+    ],
     "sections": [
       {
         "title": "Daily Life",
@@ -36,7 +40,9 @@
         "title": "Food Habits",
         "type": "food",
         "details": "Their diet consists mainly of **rice**, **millets**, and naturally available forest produce.",
-        "data": ["sukha_sag"]
+        "data": [
+          "sukha_sag"
+        ]
       },
       {
         "title": "Dance & Music",
@@ -57,7 +63,6 @@
       }
     ]
   },
-
   "gond": {
     "id": "gond",
     "name": "Gond Tribe",
@@ -67,7 +72,11 @@
     "uniqueTradition": "Gond Painting",
     "region": "Bastar and South Chhattisgarh",
     "language": "Gondi (Koitur)",
-    "gallery": ["gond_painting", "tribal_village", "festival_celebration"],
+    "gallery": [
+      "gond_painting",
+      "tribal_village",
+      "festival_celebration"
+    ],
     "sections": [
       {
         "title": "About",
@@ -139,17 +148,648 @@
         "title": "Food",
         "type": "food",
         "details": "Staple foods include **rice** and **mahua**, supplemented by seasonal forest fruits.",
-        "data": ["Rice", "Mahua", "Forest fruits and vegetables"]
+        "data": [
+          "Rice",
+          "Mahua",
+          "Forest fruits and vegetables"
+        ]
       },
       {
         "title": "Festivals",
         "type": "festival",
         "details": "They celebrate various festivals like **Madai** and **Hareli** to honor their deities and the harvest.",
-        "data": ["Madai Festival", "Hareli", "Polam Pandum"]
+        "data": [
+          "Madai Festival",
+          "Hareli",
+          "Polam Pandum"
+        ]
       }
     ]
   },
-
+  "baiga": {
+    "id": "baiga",
+    "name": "Baiga Tribe",
+    "subheading": "Forest-dwelling tribe known as the protectors of nature",
+    "description": "About the Baiga Tribe\n\n• Primitive tribal group of Central India\n• Mostly found in Kawardha and forest regions\n• Known for deep connection with forests\n\nBeliefs & Lifestyle\n• Believe forests are sacred\n• Practice shifting cultivation (Bewar)\n• Traditional healers using forest herbs\n\nArt & Culture\n• Tattoo art (Godna) is popular\n• Folk dances during festivals\n\nFestivals & Food\n• Hareli and Madai festivals\n• Eat kodo, kutki, forest roots",
+    "image": "baiga_tribe",
+    "uniqueTradition": "Godna Tattoo Art",
+    "region": "Kawardha and forest regions",
+    "language": "Baigani",
+    "gallery": [
+      "baiga_dance",
+      "baiga_tattoo",
+      "forest_life"
+    ],
+    "sections": [
+      {
+        "title": "About",
+        "type": "about",
+        "details": "Baigas are known as guardians of forests.",
+        "data": [
+          {
+            "title": "Primitive tribe",
+            "image": "baiga_village",
+            "description": "Recognized as PVTG"
+          },
+          {
+            "title": "Forest lifestyle",
+            "image": "forest_hut",
+            "description": "Live near dense forests"
+          },
+          {
+            "title": "Traditional knowledge",
+            "image": "herbal_medicine",
+            "description": "Use forest herbs"
+          }
+        ]
+      },
+      {
+        "title": "Beliefs",
+        "type": "belief",
+        "details": "Nature worship is central.",
+        "data": [
+          {
+            "title": "Sacred groves",
+            "image": "sacred_forest",
+            "description": "Forests are holy"
+          },
+          {
+            "title": "Spirit worship",
+            "image": "tribal_ritual",
+            "description": "Believe in forest spirits"
+          },
+          {
+            "title": "Ancestral rituals",
+            "image": "ancestor_worship",
+            "description": "Honor ancestors"
+          }
+        ]
+      },
+      {
+        "title": "Art & Craft",
+        "type": "art",
+        "details": "Famous for tattoo art.",
+        "data": [
+          {
+            "title": "Godna tattoo",
+            "image": "baiga_tattoo",
+            "description": "Permanent body art"
+          },
+          {
+            "title": "Dance forms",
+            "image": "baiga_dance",
+            "description": "Performed in festivals"
+          },
+          {
+            "title": "Handmade tools",
+            "image": "wood_tools",
+            "description": "Use wooden tools"
+          }
+        ]
+      },
+      {
+        "title": "Food",
+        "type": "food",
+        "details": "Forest-based simple diet.",
+        "data": [
+          "Kodo",
+          "Kutki",
+          "Mahua",
+          "Roots and tubers"
+        ]
+      },
+      {
+        "title": "Festivals",
+        "type": "festival",
+        "details": "Celebrate seasonal festivals.",
+        "data": [
+          "Hareli",
+          "Madai",
+          "Navakhai"
+        ]
+      }
+    ]
+  },
+  "halba": {
+    "id": "halba",
+    "name": "Halba Tribe",
+    "subheading": "Agricultural tribe known for discipline and farming skills",
+    "description": "• Found in Bastar region\n• Primarily farmers\n• Known for strong social organization",
+    "image": "halba_tribe",
+    "uniqueTradition": "Halbi Folk Songs",
+    "region": "Bastar",
+    "language": "Halbi",
+    "gallery": [
+      "halba_dance",
+      "halba_farming",
+      "tribal_market"
+    ],
+    "sections": [
+      {
+        "title": "About",
+        "type": "about",
+        "details": "Halbas are skilled agriculturists.",
+        "data": [
+          {
+            "title": "Agriculture based",
+            "image": "rice_field",
+            "description": "Main occupation farming"
+          },
+          {
+            "title": "Organized villages",
+            "image": "tribal_village",
+            "description": "Structured society"
+          },
+          {
+            "title": "Market trade",
+            "image": "local_haat",
+            "description": "Weekly markets"
+          }
+        ]
+      },
+      {
+        "title": "Beliefs",
+        "type": "belief",
+        "details": "Follow traditional tribal faith.",
+        "data": [
+          {
+            "title": "Village deities",
+            "image": "tribal_temple",
+            "description": "Worship local gods"
+          },
+          {
+            "title": "Harvest rituals",
+            "image": "harvest_ritual",
+            "description": "Rituals before harvest"
+          },
+          {
+            "title": "Ancestor worship",
+            "image": "ancestor_ritual",
+            "description": "Respect ancestors"
+          }
+        ]
+      },
+      {
+        "title": "Art & Craft",
+        "type": "art",
+        "details": "Folk songs and dances.",
+        "data": [
+          {
+            "title": "Halbi songs",
+            "image": "folk_song",
+            "description": "Traditional songs"
+          },
+          {
+            "title": "Dance festivals",
+            "image": "halba_dance",
+            "description": "Group dance"
+          },
+          {
+            "title": "Bamboo craft",
+            "image": "bamboo_items",
+            "description": "Daily use items"
+          }
+        ]
+      },
+      {
+        "title": "Food",
+        "type": "food",
+        "details": "Simple agrarian diet.",
+        "data": [
+          "Rice",
+          "Dal",
+          "Vegetables",
+          "Mahua"
+        ]
+      },
+      {
+        "title": "Festivals",
+        "type": "festival",
+        "details": "Celebrate agricultural festivals.",
+        "data": [
+          "Hareli",
+          "Navakhai",
+          "Madai"
+        ]
+      }
+    ]
+  },
+  "bhatra": {
+    "id": "bhatra",
+    "name": "Bhatra Tribe",
+    "subheading": "Agricultural tribe of Bastar region",
+    "description": "• Found in Bastar and Kondagaon\n• Primarily farmers\n• Known for simple lifestyle",
+    "image": "bhatra_tribe",
+    "uniqueTradition": "Agricultural rituals",
+    "region": "Bastar",
+    "language": "Bhatri",
+    "gallery": [
+      "bhatra_village",
+      "bhatra_farming",
+      "tribal_market"
+    ],
+    "sections": [
+      {
+        "title": "About",
+        "type": "about",
+        "details": "Agriculture based tribal group.",
+        "data": [
+          {
+            "title": "Rice farming",
+            "image": "rice_field",
+            "description": "Main occupation"
+          },
+          {
+            "title": "Village markets",
+            "image": "local_haat",
+            "description": "Trade goods"
+          },
+          {
+            "title": "Close community",
+            "image": "tribal_group",
+            "description": "Strong unity"
+          }
+        ]
+      },
+      {
+        "title": "Beliefs",
+        "type": "belief",
+        "details": "Traditional faith practices.",
+        "data": [
+          {
+            "title": "Nature deity",
+            "image": "tribal_deity",
+            "description": "Worship earth god"
+          },
+          {
+            "title": "Harvest rituals",
+            "image": "harvest_ritual",
+            "description": "Before crop cutting"
+          },
+          {
+            "title": "Ancestor worship",
+            "image": "ancestor_ritual",
+            "description": "Family rituals"
+          }
+        ]
+      },
+      {
+        "title": "Art & Craft",
+        "type": "art",
+        "details": "Local crafts and songs.",
+        "data": [
+          {
+            "title": "Folk songs",
+            "image": "folk_song",
+            "description": "Sung in festivals"
+          },
+          {
+            "title": "Bamboo work",
+            "image": "bamboo_craft",
+            "description": "Household items"
+          },
+          {
+            "title": "Traditional attire",
+            "image": "tribal_dress",
+            "description": "Simple cotton dress"
+          }
+        ]
+      },
+      {
+        "title": "Food",
+        "type": "food",
+        "details": "Agriculture-based diet.",
+        "data": [
+          "Rice",
+          "Dal",
+          "Mahua",
+          "Seasonal vegetables"
+        ]
+      },
+      {
+        "title": "Festivals",
+        "type": "festival",
+        "details": "Seasonal festivals.",
+        "data": [
+          "Hareli",
+          "Navakhai",
+          "Madai"
+        ]
+      }
+    ]
+  },
+  "oraon": {
+    "id": "oraon",
+    "name": "Oraon Tribe",
+    "subheading": "Agricultural tribe known for Karma dance and vibrant festivals",
+    "description": "• Also known as Kurukh tribe\n• Found in Jashpur, Surguja and northern Chhattisgarh\n• Strong community traditions and agricultural lifestyle",
+    "image": "oraon_tribe",
+    "uniqueTradition": "Karma Dance",
+    "region": "North Chhattisgarh (Jashpur, Surguja)",
+    "language": "Kurukh",
+    "gallery": [
+      "karma_dance",
+      "oraon_festival",
+      "tribal_village"
+    ],
+    "sections": [
+      {
+        "title": "About",
+        "type": "about",
+        "details": "Oraon tribe is known for farming and strong village councils.",
+        "data": [
+          {
+            "title": "Agriculture based",
+            "image": "rice_field",
+            "description": "Farming is main occupation"
+          },
+          {
+            "title": "Organized society",
+            "image": "village_meeting",
+            "description": "Traditional village council system"
+          },
+          {
+            "title": "Community unity",
+            "image": "tribal_group",
+            "description": "Strong social bonding"
+          }
+        ]
+      },
+      {
+        "title": "Beliefs",
+        "type": "belief",
+        "details": "Deep belief in nature and ancestral spirits.",
+        "data": [
+          {
+            "title": "Nature worship",
+            "image": "nature_ritual",
+            "description": "Trees and rivers worshipped"
+          },
+          {
+            "title": "Ancestor rituals",
+            "image": "ancestor_ritual",
+            "description": "Respect forefathers"
+          },
+          {
+            "title": "Village deity",
+            "image": "tribal_temple",
+            "description": "Local gods worshipped"
+          }
+        ]
+      },
+      {
+        "title": "Art & Craft",
+        "type": "art",
+        "details": "Famous for Karma dance and folk songs.",
+        "data": [
+          {
+            "title": "Karma Dance",
+            "image": "karma_dance",
+            "description": "Performed during Karma festival"
+          },
+          {
+            "title": "Folk songs",
+            "image": "folk_song",
+            "description": "Traditional musical storytelling"
+          },
+          {
+            "title": "Traditional dress",
+            "image": "oraon_dress",
+            "description": "Colorful tribal attire"
+          }
+        ]
+      },
+      {
+        "title": "Food",
+        "type": "food",
+        "details": "Simple agrarian food habits.",
+        "data": [
+          "Rice",
+          "Kodo",
+          "Mahua drink",
+          "Leafy vegetables"
+        ]
+      },
+      {
+        "title": "Festivals",
+        "type": "festival",
+        "details": "Celebrate agricultural and seasonal festivals.",
+        "data": [
+          "Karma Festival",
+          "Sarhul",
+          "Navakhai"
+        ]
+      }
+    ]
+  },
+  "binjhwar": {
+    "id": "binjhwar",
+    "name": "Binjhwar Tribe",
+    "subheading": "Agricultural tribal community of central Chhattisgarh",
+    "description": "• Found in Raigarh and surrounding districts\n• Mainly farmers\n• Preserve traditional customs",
+    "image": "binjhwar_tribe",
+    "uniqueTradition": "Traditional agricultural rituals",
+    "region": "Raigarh region",
+    "language": "Chhattisgarhi dialect",
+    "gallery": [
+      "binjhwar_village",
+      "tribal_festival",
+      "rice_field"
+    ],
+    "sections": [
+      {
+        "title": "About",
+        "type": "about",
+        "details": "Binjhwar tribe is agriculture focused.",
+        "data": [
+          {
+            "title": "Rice cultivation",
+            "image": "rice_field",
+            "description": "Main crop rice"
+          },
+          {
+            "title": "Village life",
+            "image": "tribal_village",
+            "description": "Simple community life"
+          },
+          {
+            "title": "Traditional council",
+            "image": "village_meeting",
+            "description": "Local decision system"
+          }
+        ]
+      },
+      {
+        "title": "Beliefs",
+        "type": "belief",
+        "details": "Traditional faith and rituals.",
+        "data": [
+          {
+            "title": "Earth goddess worship",
+            "image": "tribal_deity",
+            "description": "Pray before farming"
+          },
+          {
+            "title": "Harvest prayers",
+            "image": "harvest_ritual",
+            "description": "Before crop cutting"
+          },
+          {
+            "title": "Ancestor respect",
+            "image": "ancestor_ritual",
+            "description": "Family rituals"
+          }
+        ]
+      },
+      {
+        "title": "Art & Craft",
+        "type": "art",
+        "details": "Local songs and handmade crafts.",
+        "data": [
+          {
+            "title": "Folk songs",
+            "image": "folk_song",
+            "description": "Traditional singing"
+          },
+          {
+            "title": "Bamboo items",
+            "image": "bamboo_craft",
+            "description": "Daily use products"
+          },
+          {
+            "title": "Traditional dress",
+            "image": "tribal_dress",
+            "description": "Simple cotton clothes"
+          }
+        ]
+      },
+      {
+        "title": "Food",
+        "type": "food",
+        "details": "Agriculture-based diet.",
+        "data": [
+          "Rice",
+          "Dal",
+          "Leafy vegetables",
+          "Mahua"
+        ]
+      },
+      {
+        "title": "Festivals",
+        "type": "festival",
+        "details": "Celebrate farming festivals.",
+        "data": [
+          "Hareli",
+          "Navakhai",
+          "Madai"
+        ]
+      }
+    ]
+  },
+  "kawar": {
+    "id": "kawar",
+    "name": "Kawar Tribe",
+    "subheading": "Tribal community known for farming and traditional governance",
+    "description": "• Found in Raigarh and Korba districts\n• Agriculture main occupation\n• Preserve tribal customs and rituals",
+    "image": "kawar_tribe",
+    "uniqueTradition": "Traditional tribal governance",
+    "region": "Raigarh & Korba",
+    "language": "Kawari dialect",
+    "gallery": [
+      "kawar_village",
+      "tribal_festival",
+      "agriculture_field"
+    ],
+    "sections": [
+      {
+        "title": "About",
+        "type": "about",
+        "details": "Kawar tribe is farming oriented.",
+        "data": [
+          {
+            "title": "Agricultural community",
+            "image": "agriculture_field",
+            "description": "Rice and millet farming"
+          },
+          {
+            "title": "Village leadership",
+            "image": "village_meeting",
+            "description": "Traditional head system"
+          },
+          {
+            "title": "Close-knit families",
+            "image": "tribal_family",
+            "description": "Strong family ties"
+          }
+        ]
+      },
+      {
+        "title": "Beliefs",
+        "type": "belief",
+        "details": "Follow tribal spiritual traditions.",
+        "data": [
+          {
+            "title": "Nature worship",
+            "image": "nature_ritual",
+            "description": "Worship earth and sky"
+          },
+          {
+            "title": "Clan deity",
+            "image": "clan_ritual",
+            "description": "Each clan deity"
+          },
+          {
+            "title": "Harvest rituals",
+            "image": "harvest_ritual",
+            "description": "Before harvesting"
+          }
+        ]
+      },
+      {
+        "title": "Art & Craft",
+        "type": "art",
+        "details": "Folk dance and crafts.",
+        "data": [
+          {
+            "title": "Traditional dance",
+            "image": "tribal_dance",
+            "description": "Group performances"
+          },
+          {
+            "title": "Handmade crafts",
+            "image": "bamboo_craft",
+            "description": "Daily household items"
+          },
+          {
+            "title": "Folk songs",
+            "image": "folk_song",
+            "description": "Seasonal songs"
+          }
+        ]
+      },
+      {
+        "title": "Food",
+        "type": "food",
+        "details": "Simple agrarian food habits.",
+        "data": [
+          "Rice",
+          "Millets",
+          "Vegetables",
+          "Mahua"
+        ]
+      },
+      {
+        "title": "Festivals",
+        "type": "festival",
+        "details": "Celebrate agricultural festivals.",
+        "data": [
+          "Hareli",
+          "Navakhai",
+          "Madai"
+        ]
+      }
+    ]
+  },
   "korwa": {
     "id": "korwa",
     "name": "Pahadi Korwa",
@@ -159,7 +799,11 @@
     "uniqueTradition": "Traditional Archery",
     "region": "Korba, Surguja, Jashpur (Chhattisgarh)",
     "language": "Korwa / Sadri",
-    "gallery": ["hilly_forest", "traditional_hut", "forest_tools"],
+    "gallery": [
+      "hilly_forest",
+      "traditional_hut",
+      "forest_tools"
+    ],
     "sections": [
       {
         "title": "About",
@@ -231,7 +875,11 @@
         "title": "Food Sources",
         "type": "food",
         "details": "Their food sources are primarily **foraged** from the wild, including roots, tubers, and mahua.",
-        "data": ["Mahua", "Roots and tubers", "Wild fruits"]
+        "data": [
+          "Mahua",
+          "Roots and tubers",
+          "Wild fruits"
+        ]
       }
     ]
   }
