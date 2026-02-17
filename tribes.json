@@ -13,6 +13,7 @@
       {
         "title": "Daily Life",
         "type": "lifestyle",
+        "details": "The daily life of the Maria tribe is deeply connected to the forest, with **farming** and **gathering** being central activities.",
         "data": [
           {
             "title": "Farming and forest produce collection",
@@ -34,16 +35,19 @@
       {
         "title": "Food Habits",
         "type": "food",
+        "details": "Their diet consists mainly of **rice**, **millets**, and naturally available forest produce.",
         "data": ["sukha_sag"]
       },
       {
         "title": "Festivals",
         "type": "festival",
+        "details": "Festivals are a time of great joy, celebrated with **traditional dances** and community feasts.",
         "data": ["Bastar Dussehra", "Madai Festival"]
       },
       {
         "title": "Dance & Music",
         "type": "dance",
+        "details": "Music and dance, especially the **Bison Horn Dance**, are integral to their cultural expression.",
         "data": [
           {
             "title": "Bison Horn Dance",
@@ -74,6 +78,7 @@
       {
         "title": "About",
         "type": "about",
+        "details": "The **Gond tribe** is one of the largest and most historically significant tribal groups in India.",
         "data": [
           {
             "title": "One of the largest tribes in India",
@@ -95,6 +100,7 @@
       {
         "title": "Beliefs",
         "type": "belief",
+        "details": "They hold a strong belief in the **sacredness of nature**, worshipping trees, rivers, and mountains.",
         "data": [
           {
             "title": "Worship trees, animals, and rivers",
@@ -116,6 +122,7 @@
       {
         "title": "Art & Craft",
         "type": "art",
+        "details": "Gond art is world-renowned for its intricate **patterns** and **vibrant colors**, depicting stories of nature.",
         "data": [
           {
             "title": "Gond paintings made with dots and lines",
@@ -137,11 +144,13 @@
       {
         "title": "Food",
         "type": "food",
+        "details": "Staple foods include **rice** and **mahua**, supplemented by seasonal forest fruits.",
         "data": ["Rice", "Mahua", "Forest fruits and vegetables"]
       },
       {
         "title": "Festivals",
         "type": "festival",
+        "details": "They celebrate various festivals like **Madai** and **Hareli** to honor their deities and the harvest.",
         "data": ["Madai Festival", "Hareli", "Polam Pandum"]
       }
     ]
@@ -161,6 +170,7 @@
       {
         "title": "About",
         "type": "about",
+        "details": "The **Pahadi Korwa** are a Particularly Vulnerable Tribal Group, living in harmony with the deep forests.",
         "data": [
           {
             "title": "Classified as PVTG",
@@ -182,6 +192,7 @@
       {
         "title": "Living Style",
         "type": "lifestyle",
+        "details": "They live a simple life in **thatched huts**, relying entirely on the forest for their needs.",
         "data": [
           {
             "title": "Depends heavily on forests",
@@ -203,6 +214,7 @@
       {
         "title": "Traditional Skills",
         "type": "skill",
+        "details": "They are expert **archers** and skilled in making tools from bamboo and wood.",
         "data": [
           {
             "title": "Archery and hunting",
@@ -224,6 +236,7 @@
       {
         "title": "Food Sources",
         "type": "food",
+        "details": "Their food sources are primarily **foraged** from the wild, including roots, tubers, and mahua.",
         "data": ["Mahua", "Roots and tubers", "Wild fruits"]
       }
     ]
