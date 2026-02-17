@@ -1,14 +1,31 @@
 {
-  "Korba": {
-    "famousFor": "Power Capital of India",
-    "about": "Korba is known as the Power Capital of Chhattisgarh. It is situated on the banks of the confluence of the Hasdeo and Ahiran rivers. The district is rich in mineral resources like coal and plays a pivotal role in the state's industrial growth. Historically, it was the territory of the Korwa tribe, from whom the district gets its name.",
-    "center": { "latitude": 22.3595, "longitude": 82.7501 },
-    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
-    "places": ["silver-jubilee-park", "hasdeo-bango-dam", "buka-lake"],
-    "tribes": ["korwa", "gond"],
-    "festivals": ["chaitra-navratri", "hareli"]
+  "Balod": {
+    "famousFor": "Historical Temples & Dams",
+    "about": "Balod is known for the Tandula Dam and ancient temples. It is a peaceful district with a rich cultural heritage.",
+    "center": { "latitude": 20.7308, "longitude": 81.2058 },
+    "images": ["teerathgarhfalls", "bhoramdeotemple"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
   },
-
+  "Baloda Bazar-Bhatapara": {
+    "famousFor": "Cement Hub & Nature",
+    "about": "Known as the cement hub of Chhattisgarh, this district also features natural attractions like the Barnawapara Wildlife Sanctuary.",
+    "center": { "latitude": 21.735, "longitude": 81.9471 },
+    "images": ["forest_village", "chitrakotwaterfall"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Balrampur-Ramanujganj": {
+    "famousFor": "Hot Springs & Hills",
+    "about": "Balrampur is famous for the Tatapani hot springs and lush green hills on the northern border of the state.",
+    "center": { "latitude": 23.605, "longitude": 83.617 },
+    "images": ["mainpat", "amritdhara"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
   "Bastar": {
     "famousFor": "Tribal Heartland & Waterfalls",
     "about": "Bastar is famous for its unique tribal culture and traditional art forms. It is home to the majestic Chitrakote Falls, often called the Niagara of India.",
@@ -18,17 +35,24 @@
     "tribes": ["maria", "gond"],
     "festivals": ["bastar-dussehra"]
   },
-
-  "Raipur": {
-    "famousFor": "Capital City & Steel Hub",
-    "about": "Raipur is the capital city of Chhattisgarh and a major commercial hub. It blends modern infrastructure with traditional roots.",
-    "center": { "latitude": 21.2514, "longitude": 81.6296 },
-    "images": ["bhoramdeotemple", "teerathgarhfalls", "chitrakotwaterfall"],
+  "Bemetara": {
+    "famousFor": "Agriculture & Temples",
+    "about": "Bemetara is an agricultural district with several ancient temples dedicated to Shiva and Devi.",
+    "center": { "latitude": 21.714, "longitude": 81.5356 },
+    "images": ["village_food", "tribal_fields"],
     "places": [],
     "tribes": [],
     "festivals": []
   },
-
+  "Bijapur": {
+    "famousFor": "Wildlife & Caves",
+    "about": "Bijapur is known for its dense forests, wildlife sanctuaries, and limestone caves. It is a haven for nature lovers.",
+    "center": { "latitude": 18.7917, "longitude": 80.8167 },
+    "images": ["forest_food", "kangerValley"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
   "Bilaspur": {
     "famousFor": "Judicial Capital & Rice Bowl",
     "about": "Bilaspur is known as the Judicial Capital of Chhattisgarh as it houses the High Court. It is also famous for its aromatic Doobraj rice.",
@@ -38,37 +62,6 @@
     "tribes": [],
     "festivals": []
   },
-
-  "Durg": {
-    "famousFor": "Steel City (Bhilai)",
-    "about": "Durg district is home to the Bhilai Steel Plant, a symbol of modern industrial India. It is a major educational and industrial center.",
-    "center": { "latitude": 21.19, "longitude": 81.2849 },
-    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
-    "places": [],
-    "tribes": [],
-    "festivals": []
-  },
-
-  "Kabirdham": {
-    "famousFor": "Bhoramdeo Temple (Khajuraho of CG)",
-    "about": "Kabirdham is renowned for the Bhoramdeo Temple, an architectural marvel often referred to as the Khajuraho of Chhattisgarh.",
-    "center": { "latitude": 22.0085, "longitude": 81.2385 },
-    "images": ["bhoramdeotemple", "chitrakotwaterfall", "teerathgarhfalls"],
-    "places": ["bhoramdeo-temple"],
-    "tribes": ["baiga"],
-    "festivals": ["madai"]
-  },
-
-  "Surguja": {
-    "famousFor": "Mainpat (Shimla of CG)",
-    "about": "Surguja is known for its pristine forests and Mainpat, a hill station often called the 'Shimla of Chhattisgarh' due to its cool climate and Tibetan culture.",
-    "center": { "latitude": 23.1186, "longitude": 83.1956 },
-    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
-    "places": ["mainpat"],
-    "tribes": ["gond"],
-    "festivals": ["hareli"]
-  },
-
   "Dantewada": {
     "famousFor": "Danteshwari Temple",
     "about": "Dantewada is a sacred land, home to the Danteshwari Temple, one of the Shakti Peethas.",
@@ -78,7 +71,51 @@
     "tribes": [],
     "festivals": []
   },
-
+  "Dhamtari": {
+    "famousFor": "Gangrel Dam & Temples",
+    "about": "Dhamtari is home to the Gangrel Dam built across the Mahanadi River and several ancient temples.",
+    "center": { "latitude": 20.7072, "longitude": 81.5487 },
+    "images": ["chitrakotwaterfall", "bhoramdeotemple"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Durg": {
+    "famousFor": "Steel City (Bhilai)",
+    "about": "Durg district is home to the Bhilai Steel Plant, a symbol of modern industrial India. It is a major educational and industrial center.",
+    "center": { "latitude": 21.19, "longitude": 81.2849 },
+    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Gariaband": {
+    "famousFor": "Rajim Kumbh & Nature",
+    "about": "Gariaband hosts the famous Rajim Kumbh Mela at the confluence of three holy rivers. It is also known for its rich biodiversity.",
+    "center": { "latitude": 20.6332, "longitude": 82.0622 },
+    "images": ["bhoramdeotemple", "river_confluence"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Gaurela-Pendra-Marwahi": {
+    "famousFor": "Origin of Arpa River",
+    "about": "A newly formed district known for its hilly terrain and being the origin of the Arpa River.",
+    "center": { "latitude": 22.767, "longitude": 81.867 },
+    "images": ["forest_village", "hill_view"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Janjgir-Champa": {
+    "famousFor": "Power Hub & Vishnu Mandir",
+    "about": "Janjgir-Champa is a major producer of food grains and electricity. It is famous for the unfinished Vishnu Mandir.",
+    "center": { "latitude": 21.9, "longitude": 82.7 },
+    "images": ["bhoramdeotemple", "paddy_fields"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
   "Jashpur": {
     "famousFor": "Forests & Waterfalls",
     "about": "Jashpur is a land of dense forests and stunning waterfalls. It is known for its tribal population and rich biodiversity.",
@@ -88,7 +125,51 @@
     "tribes": [],
     "festivals": []
   },
-
+  "Kabirdham": {
+    "famousFor": "Bhoramdeo Temple (Khajuraho of CG)",
+    "about": "Kabirdham is renowned for the Bhoramdeo Temple, an architectural marvel often referred to as the Khajuraho of Chhattisgarh.",
+    "center": { "latitude": 22.0085, "longitude": 81.2385 },
+    "images": ["bhoramdeotemple", "chitrakotwaterfall", "teerathgarhfalls"],
+    "places": ["bhoramdeo-temple"],
+    "tribes": ["baiga"],
+    "festivals": ["madai"]
+  },
+  "Kanker": {
+    "famousFor": "Tribal Art & History",
+    "about": "Kanker is a gateway to the Bastar region, known for its royal palace and exquisite tribal wood and bell metal crafts.",
+    "center": { "latitude": 20.27, "longitude": 81.49 },
+    "images": ["bastar_art", "palace_view"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Khairagarh-Chhuikhadan-Gandai": {
+    "famousFor": "Music & Arts University",
+    "about": "Home to the Indira Kala Sangeet Vishwavidyalaya, distinct for being dedicated entirely to music and fine arts.",
+    "center": { "latitude": 21.5295, "longitude": 80.9483 },
+    "images": ["music_university", "art_gallery"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Kondagaon": {
+    "famousFor": "Bell Metal Crafts",
+    "about": "Known as the Shilpagram (Craft City) of Chhattisgarh, famous specifically for its bell metal and terracotta crafts.",
+    "center": { "latitude": 19.6, "longitude": 81.67 },
+    "images": ["bell_metal_craft", "terracotta_art"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Korba": {
+    "famousFor": "Power Capital of India",
+    "about": "Korba is known as the Power Capital of Chhattisgarh. It is situated on the banks of the confluence of the Hasdeo and Ahiran rivers. The district is rich in mineral resources like coal and plays a pivotal role in the state's industrial growth.",
+    "center": { "latitude": 22.3595, "longitude": 82.7501 },
+    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
+    "places": ["silver-jubilee-park", "hasdeo-bango-dam", "buka-lake"],
+    "tribes": ["korwa", "gond"],
+    "festivals": ["chaitra-navratri", "hareli"]
+  },
   "Koriya": {
     "famousFor": "Natural Beauty & Waterfalls",
     "about": "Koriya is known for its scenic beauty, dense forests, and mesmerizing waterfalls like Amrit Dhara.",
@@ -98,7 +179,123 @@
     "tribes": [],
     "festivals": []
   },
-
+  "Mahasamund": {
+    "famousFor": "Sirpur Heritage Site",
+    "about": "Mahasamund is famous for the archaeological site of Sirpur, which houses ancient Buddhist and Hindu monuments.",
+    "center": { "latitude": 21.1091, "longitude": 82.0979 },
+    "images": ["bhoramdeotemple", "sirpur_temple"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Manendragarh-Chirmiri-Bharatpur": {
+    "famousFor": "Coal Mines & Hills",
+    "about": "A newly carved district rich in coal deposits and scenic hilly landscapes.",
+    "center": { "latitude": 23.2139, "longitude": 82.2013 },
+    "images": ["coal_mines", "hill_view"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Mohla-Manpur-Ambagarh Chowki": {
+    "famousFor": "Dense Forests & Tribal Life",
+    "about": "A heavily forested district with a predominantly tribal population and pristine natural beauty.",
+    "center": { "latitude": 20.59, "longitude": 80.75 },
+    "images": ["forest_view", "tribal_life"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Mungeli": {
+    "famousFor": "Achanakmar Tiger Reserve",
+    "about": "Mungeli serves as a gateway to the Achanakmar Tiger Reserve, a haven for wildlife enthusiasts.",
+    "center": { "latitude": 22.0685, "longitude": 81.6857 },
+    "images": ["tiger_reserve", "wildlife"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Narayanpur": {
+    "famousFor": "Abujhmad Forests",
+    "about": "Narayanpur is known for the Abujhmad region, one of the densest and unexplored forests in India.",
+    "center": { "latitude": 19.6043, "longitude": 81.0812 },
+    "images": ["dense_forest", "tribal_village"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Raigarh": {
+    "famousFor": "Cultural Capital & Steel",
+    "about": "Raigarh is known for its classical music and dance heritage (Kathak) as well as its steel industries.",
+    "center": { "latitude": 21.9056, "longitude": 83.3995 },
+    "images": ["cultural_fest", "steel_plant"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Raipur": {
+    "famousFor": "Capital City & Steel Hub",
+    "about": "Raipur is the capital city of Chhattisgarh and a major commercial hub. It blends modern infrastructure with traditional roots.",
+    "center": { "latitude": 21.2514, "longitude": 81.6296 },
+    "images": ["bhoramdeotemple", "teerathgarhfalls", "chitrakotwaterfall"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Rajnandgaon": {
+    "famousFor": "literary Heritage & Industry",
+    "about": "Rajnandgaon has a rich literary history and is a significant industrial town in the state.",
+    "center": { "latitude": 21.0979, "longitude": 81.0337 },
+    "images": ["city_view", "industrial_area"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Sakti": {
+    "famousFor": "Damudhara & Temples",
+    "about": "Sakti is known for the Damudhara waterfall and ancient temples like Chandrahasini Devi Temple nearby.",
+    "center": { "latitude": 22.0266, "longitude": 82.9609 },
+    "images": ["waterfall_view", "temple_view"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Sarangarh-Bilaigarh": {
+    "famousFor": "Gomarda Wildlife Sanctuary",
+    "about": "Home to the Gomarda Wildlife Sanctuary, offering diverse flora and fauna.",
+    "center": { "latitude": 21.5429, "longitude": 83.1266 },
+    "images": ["wildlife", "sanctuary_entrance"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Sukma": {
+    "famousFor": "Remote Tribal Culture",
+    "about": "Located in the southernmost tip, Sukma is known for its untouched natural beauty and deep tribal roots.",
+    "center": { "latitude": 18.3911, "longitude": 81.6593 },
+    "images": ["river_view", "forest_path"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Surajpur": {
+    "famousFor": "Tamor Pingla Sanctuary",
+    "about": "Surajpur is home to the Tamor Pingla Wildlife Sanctuary and several pilgrimage sites.",
+    "center": { "latitude": 23.223, "longitude": 82.8706 },
+    "images": ["sanctuary_view", "pilgrimage_site"],
+    "places": [],
+    "tribes": [],
+    "festivals": []
+  },
+  "Surguja": {
+    "famousFor": "Mainpat (Shimla of CG)",
+    "about": "Surguja is known for its pristine forests and Mainpat, a hill station often called the 'Shimla of Chhattisgarh' due to its cool climate and Tibetan culture.",
+    "center": { "latitude": 23.1186, "longitude": 83.1956 },
+    "images": ["teerathgarhfalls", "bhoramdeotemple", "chitrakotwaterfall"],
+    "places": ["mainpat"],
+    "tribes": ["gond"],
+    "festivals": ["hareli"]
+  },
   "Default": {
     "famousFor": "Explore Chhattisgarh",
     "about": "Discover the beauty and culture of Chhattisgarh.",
