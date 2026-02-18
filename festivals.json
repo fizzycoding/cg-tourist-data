@@ -366,4 +366,99 @@
     "gallery": ["goura_gouri_1", "goura_gouri_2"],
     "sections": []
   },
+    "karma-festival": {
+    "id": "karma-festival",
+    "name": "Karma Festival",
+    "tagline": "A tribal celebration of nature, youth, and destiny",
+    "month": "Sep",
+    "months": ["Aug", "Sep"],
+    "duration": "1 day",
+    "location": "Northern and tribal regions of Chhattisgarh",
+    "description": "**Karma Festival** is an important tribal celebration dedicated to the worship of the **Karam tree**, symbolizing fate and prosperity.\n\nCelebrated mainly by tribal communities, the festival is centered around youth participation, music, and all-night dance rituals.\n\n• Worship of the sacred Karam tree branch\n• Community dance and drum performances\n• Celebration of fertility and prosperity",
+    "image": "karma_festival_1",
+    "deity": "Karam Devta",
+    "season": "Monsoon",
+    "districtId": "Jashpur",
+    "festivalType": "Cultural",
+    "whoCelebrates": ["Oraon", "Gond", "Baiga", "Other Tribal Communities"],
+    "meaning": "Karma represents the belief that human destiny is linked to nature.\n\nThe festival reinforces unity among youth and strengthens tribal identity through collective celebration.",
+    "traditions": [
+      {
+        "title": "Karam Tree Worship",
+        "description": "A branch of the Karam tree is planted in the village ground and worshipped with offerings.",
+        "icon": "tree"
+      },
+      {
+        "title": "Karma Dance",
+        "description": "Men and women perform rhythmic group dances throughout the night accompanied by drums.",
+        "icon": "music"
+      }
+    ],
+    "gallery": ["karma_festival_1", "karma_festival_2"],
+    "sections": []
+  },
+
+  "sarhul": {
+    "id": "sarhul",
+    "name": "Sarhul",
+    "tagline": "Welcoming spring through sacred forest worship",
+    "month": "Mar",
+    "months": ["Mar", "Apr"],
+    "duration": "1 to 3 days",
+    "location": "Northern tribal belt of Chhattisgarh",
+    "description": "**Sarhul** is a spring festival celebrated by tribal communities to honor the **Sal tree** and the spirit of the forest.\n\nIt marks the beginning of the new year in many tribal calendars and celebrates the blooming of nature.\n\n• Worship of Sal tree flowers\n• Ritual offerings to village spirits\n• Celebration of ecological harmony",
+    "image": "sarhul_1",
+    "deity": "Dharti Mata and Village Spirits",
+    "season": "Spring",
+    "districtId": "Surguja",
+    "festivalType": "Cultural",
+    "whoCelebrates": ["Oraon", "Munda", "Other Tribal Communities"],
+    "meaning": "Sarhul symbolizes respect for forests and the earth.\n\nIt reflects the tribal worldview that humans are protectors—not owners—of nature.",
+    "traditions": [
+      {
+        "title": "Sal Flower Offering",
+        "description": "Priests offer newly bloomed Sal flowers to village deities seeking protection and prosperity.",
+        "icon": "flower"
+      },
+      {
+        "title": "Community Feast",
+        "description": "Villagers gather for shared meals and traditional dance celebrations.",
+        "icon": "users"
+      }
+    ],
+    "gallery": ["sarhul_1", "sarhul_2"],
+    "sections": []
+  },
+
+  "bhojali": {
+    "id": "bhojali",
+    "name": "Bhojali Festival",
+    "tagline": "A women-led monsoon ritual of devotion and greenery",
+    "month": "Aug",
+    "months": ["Aug"],
+    "duration": "8 to 9 days",
+    "location": "Central plains of Chhattisgarh",
+    "description": "**Bhojali Festival** is primarily celebrated by young girls and women during the monsoon season.\n\nSeeds are sown in small baskets and nurtured for several days, symbolizing growth, fertility, and devotion.\n\n• Ritual sowing of seeds\n• Devotional songs by women\n• Immersion ceremony in water bodies",
+    "image": "bhojali_1",
+    "deity": "Goddess Bhojali",
+    "season": "Monsoon",
+    "districtId": "Raipur",
+    "festivalType": "Religious",
+    "whoCelebrates": ["Women", "Young Girls"],
+    "meaning": "Bhojali represents nurturing energy and agricultural fertility.\n\nIt highlights the role of women as preservers of cultural and ecological traditions.",
+    "traditions": [
+      {
+        "title": "Seed Sowing Ritual",
+        "description": "Grains are planted in baskets and cared for daily as a sacred responsibility.",
+        "icon": "leaf"
+      },
+      {
+        "title": "Bhojali Visarjan",
+        "description": "The grown green shoots are immersed in rivers or ponds accompanied by songs.",
+        "icon": "droplets"
+      }
+    ],
+    "gallery": ["bhojali_1", "bhojali_2"],
+    "sections": []
+  },
 }
