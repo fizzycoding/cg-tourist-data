@@ -167,5 +167,101 @@
     ],
     "gallery": ["pola_1", "pola_2"],
     "sections": []
-  }
+  },
+
+  "navakhani": {
+    "id": "navakhani",
+    "name": "Navakhani",
+    "tagline": "Celebrating the first harvest of the season",
+    "month": "Sep",
+    "months": ["Sep", "Oct"],
+    "duration": "1 day",
+    "location": "Tribal regions of Bastar and surrounding districts",
+    "description": "**Navakhani** is a traditional tribal harvest festival celebrated to mark the consumption of the new rice crop.\n\nBefore eating the freshly harvested grain, rituals are performed to offer the first portion to local deities and ancestors.\n\n• Celebration of new rice harvest\n• Ritual offering before first consumption\n• Community-based thanksgiving ceremony",
+    "image": "navakhani_1",
+    "deity": "Village Deities",
+    "season": "Autumn",
+    "districtId": "Bastar",
+    "festivalType": "Harvest",
+    "whoCelebrates": ["Maria", "Muria", "Dhurwa", "Bhatra"],
+    "meaning": "Navakhani symbolizes gratitude toward nature and ancestral spirits for a successful harvest.\n\nIt reinforces the tribal belief that food must first be offered to divine forces before human consumption.",
+    "traditions": [
+      {
+        "title": "New Rice Offering",
+        "description": "Freshly harvested rice is cooked and offered to village deities before families partake in the meal.",
+        "icon": "food"
+      },
+      {
+        "title": "Community Feast",
+        "description": "Villagers gather to share meals and celebrate the prosperity of the season.",
+        "icon": "users"
+      }
+    ],
+    "gallery": ["navakhani_1", "navakhani_2"],
+    "sections": []
+  },
+
+  "goncha-festival": {
+    "id": "goncha-festival",
+    "name": "Goncha Festival",
+    "tagline": "A unique chariot festival with symbolic fruit cannons",
+    "month": "Jul",
+    "months": ["Jul"],
+    "duration": "9 days",
+    "location": "Jagdalpur, Bastar region",
+    "description": "**Goncha Festival** is a distinctive tribal celebration held in Bastar during the monsoon season.\n\nThe festival features a grand chariot procession and the playful use of traditional wooden guns that fire small fruits known as *goncha*.\n\n• Rath Yatra of local deities\n• Symbolic fruit shooting tradition\n• Blend of devotion and festivity",
+    "image": "goncha_festival_1",
+    "deity": "Lord Jagannath",
+    "season": "Monsoon",
+    "districtId": "Bastar",
+    "festivalType": "Cultural",
+    "whoCelebrates": ["Local Tribes", "Hindu Communities"],
+    "meaning": "Goncha represents devotion combined with celebration and tribal identity.\n\nIt reflects how classical traditions adapt uniquely within Bastar’s cultural landscape.",
+    "traditions": [
+      {
+        "title": "Rath Procession",
+        "description": "The deity is carried in a decorated chariot through the town accompanied by music and chants.",
+        "icon": "bus"
+      },
+      {
+        "title": "Goncha Firing",
+        "description": "Participants use wooden cannons to shoot small fruits in a symbolic and playful ritual.",
+        "icon": "fire"
+      }
+    ],
+    "gallery": ["goncha_festival_1", "goncha_festival_2"],
+    "sections": []
+  },
+
+  "madai-festival": {
+    "id": "madai-festival",
+    "name": "Madai Festival",
+    "tagline": "A traveling tribal festival of devotion and trade",
+    "month": "Dec",
+    "months": ["Dec", "Jan", "Feb", "Mar"],
+    "duration": "Seasonal cycle across villages",
+    "location": "Various districts across Bastar division",
+    "description": "**Madai Festival** is not confined to a single location; it is a moving tribal celebration that travels from village to village.\n\nIt combines religious rituals, local markets, and vibrant cultural performances.\n\n• Seasonal traveling celebration\n• Worship of village deities\n• Traditional fairs and trade gatherings",
+    "image": "madai_festival_1",
+    "deity": "Local Tribal Deities",
+    "season": "Winter",
+    "districtId": "Kondagaon",
+    "festivalType": "Cultural",
+    "whoCelebrates": ["Gond", "Maria", "Muria", "Halba"],
+    "meaning": "Madai strengthens inter-village relationships and preserves tribal governance traditions.\n\nIt also acts as a social and economic gathering where communities exchange goods and culture.",
+    "traditions": [
+      {
+        "title": "Deity Procession",
+        "description": "Village deities are carried ceremonially to designated grounds for worship.",
+        "icon": "tent"
+      },
+      {
+        "title": "Traditional Fair",
+        "description": "Local markets are set up where people trade forest produce, crafts, and livestock.",
+        "icon": "tree"
+      }
+    ],
+    "gallery": ["madai_festival_1", "madai_festival_2"],
+    "sections": []
+  },
 }
