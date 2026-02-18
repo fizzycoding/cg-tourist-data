@@ -8,11 +8,7 @@
     "uniqueTradition": "Bison Horn Dance",
     "region": "Abujmarh, Bastar (Chhattisgarh)",
     "language": "Gondi / Abuj Maria",
-    "gallery": [
-      "bison_horn_dance",
-      "forest_village",
-      "traditional_dance"
-    ],
+    "gallery": ["bison_horn_dance", "forest_village", "traditional_dance"],
     "sections": [
       {
         "title": "Daily Life",
@@ -40,9 +36,7 @@
         "title": "Food Habits",
         "type": "food",
         "details": "Their diet consists mainly of **rice**, **millets**, and naturally available forest produce.",
-        "data": [
-          "sukha_sag"
-        ]
+        "data": ["sukha_sag"]
       },
       {
         "title": "Dance & Music",
@@ -72,11 +66,7 @@
     "uniqueTradition": "Gond Painting",
     "region": "Bastar and South Chhattisgarh",
     "language": "Gondi (Koitur)",
-    "gallery": [
-      "gond_painting",
-      "tribal_village",
-      "festival_celebration"
-    ],
+    "gallery": ["gond_painting", "tribal_village", "festival_celebration"],
     "sections": [
       {
         "title": "About",
@@ -148,21 +138,13 @@
         "title": "Food",
         "type": "food",
         "details": "Staple foods include **rice** and **mahua**, supplemented by seasonal forest fruits.",
-        "data": [
-          "Rice",
-          "Mahua",
-          "Forest fruits and vegetables"
-        ]
+        "data": ["Rice", "Mahua", "Forest fruits and vegetables"]
       },
       {
         "title": "Festivals",
         "type": "festival",
         "details": "They celebrate various festivals like **Madai** and **Hareli** to honor their deities and the harvest.",
-        "data": [
-          "Madai Festival",
-          "Hareli",
-          "Polam Pandum"
-        ]
+        "data": ["Madai Festival", "Hareli", "Polam Pandum"]
       }
     ]
   },
@@ -175,11 +157,7 @@
     "uniqueTradition": "Godna Tattoo Art",
     "region": "Kawardha and forest regions",
     "language": "Baigani",
-    "gallery": [
-      "baiga_dance",
-      "baiga_tattoo",
-      "forest_life"
-    ],
+    "gallery": ["baiga_dance", "baiga_tattoo", "forest_life"],
     "sections": [
       {
         "title": "About",
@@ -251,22 +229,13 @@
         "title": "Food",
         "type": "food",
         "details": "Forest-based simple diet.",
-        "data": [
-          "Kodo",
-          "Kutki",
-          "Mahua",
-          "Roots and tubers"
-        ]
+        "data": ["Kodo", "Kutki", "Mahua", "Roots and tubers"]
       },
       {
         "title": "Festivals",
         "type": "festival",
         "details": "Celebrate seasonal festivals.",
-        "data": [
-          "Hareli",
-          "Madai",
-          "Navakhai"
-        ]
+        "data": ["Hareli", "Madai", "Navakhai"]
       }
     ]
   },
@@ -279,97 +248,93 @@
     "uniqueTradition": "Halbi Folk Songs",
     "region": "Bastar",
     "language": "Halbi",
-    "gallery": [
-      "halba_dance",
-      "halba_farming",
-      "tribal_market"
-    ],
+    "gallery": ["halba_dance", "halba_farming", "tribal_market"],
     "sections": [
       {
         "title": "About",
         "type": "about",
-        "details": "Halbas are skilled agriculturists.",
+        "details": "The **Halba tribe** is one of the most progressive and landed tribal communities, often serving as landlords and holding high social status.",
         "data": [
           {
-            "title": "Agriculture based",
+            "title": "Progressive Farmers",
             "image": "rice_field",
-            "description": "Main occupation farming"
+            "description": "Advanced agricultural techniques"
           },
           {
-            "title": "Organized villages",
-            "image": "tribal_village",
-            "description": "Structured society"
+            "title": "Kabirpanthi Influence",
+            "image": "kabir_panth",
+            "description": "Many follow the non-violent Kabir Panth"
           },
           {
-            "title": "Market trade",
-            "image": "local_haat",
-            "description": "Weekly markets"
+            "title": "Social Status",
+            "image": "village_council",
+            "description": "Historically held high administrative posts"
           }
         ]
       },
       {
         "title": "Beliefs",
         "type": "belief",
-        "details": "Follow traditional tribal faith.",
+        "details": "While they worship Danteshwari Ma, a significant section follows **Kabir Panth**, abstaining from alcohol and meat.",
         "data": [
           {
-            "title": "Village deities",
-            "image": "tribal_temple",
-            "description": "Worship local gods"
+            "title": "Danteshwari Worship",
+            "image": "danteshwari_temple",
+            "description": "Revere the goddess of Bastar"
           },
           {
-            "title": "Harvest rituals",
-            "image": "harvest_ritual",
-            "description": "Rituals before harvest"
+            "title": "Kabir Panth",
+            "image": "white_flag",
+            "description": "Sect focusing on truth and simplicity"
           },
           {
-            "title": "Ancestor worship",
-            "image": "ancestor_ritual",
-            "description": "Respect ancestors"
+            "title": "Ancestor Reverence",
+            "image": "ancestor_pillar",
+            "description": "Deep respect for forefathers"
           }
         ]
       },
       {
         "title": "Art & Craft",
         "type": "art",
-        "details": "Folk songs and dances.",
+        "details": "Known for their unique **Halbi dialect**, which serves as the lingua franca of Bastar, and agricultural tools craftsmanship.",
         "data": [
           {
-            "title": "Halbi songs",
-            "image": "folk_song",
-            "description": "Traditional songs"
+            "title": "Halbi Language",
+            "image": "scriptures",
+            "description": "The trade language of Bastar"
           },
           {
-            "title": "Dance festivals",
-            "image": "halba_dance",
-            "description": "Group dance"
+            "title": "Agricultural Implements",
+            "image": "plough",
+            "description": "Skillful making of farming tools"
           },
           {
-            "title": "Bamboo craft",
-            "image": "bamboo_items",
-            "description": "Daily use items"
+            "title": "Weaving",
+            "image": "handloom",
+            "description": "Traditional cloth weaving"
           }
         ]
       },
       {
         "title": "Food",
         "type": "food",
-        "details": "Simple agrarian diet.",
+        "details": "Their cuisine is famous for **Poha** (flattened rice) and **Cheela**, often prepared with special variations.",
         "data": [
-          "Rice",
-          "Dal",
-          "Vegetables",
-          "Mahua"
+          "Special Poha (Flattened rice)",
+          "Cheela (Rice pancakes)",
+          "Bore Baasi",
+          "Muthia"
         ]
       },
       {
         "title": "Festivals",
         "type": "festival",
-        "details": "Celebrate agricultural festivals.",
+        "details": "Major celebrations include **Hareli**, **Pola**, and **Diwali**, celebrated with agricultural significance.",
         "data": [
-          "Hareli",
-          "Navakhai",
-          "Madai"
+          "Hareli (Farm tool worship)",
+          "Pola (Bullock worship)",
+          "Cherchera"
         ]
       }
     ]
@@ -383,98 +348,90 @@
     "uniqueTradition": "Agricultural rituals",
     "region": "Bastar",
     "language": "Bhatri",
-    "gallery": [
-      "bhatra_village",
-      "bhatra_farming",
-      "tribal_market"
-    ],
+    "gallery": ["bhatra_village", "bhatra_farming", "tribal_market"],
     "sections": [
       {
         "title": "About",
         "type": "about",
-        "details": "Agriculture based tribal group.",
+        "details": "The **Bhatra tribe** is known for their unique social stratification and talent in **tribal theater**.",
         "data": [
           {
-            "title": "Rice farming",
-            "image": "rice_field",
-            "description": "Main occupation"
+            "title": "Social Classes",
+            "image": "social_hierarchy",
+            "description": "Divided into Amnit (Higher) and San (Lower)"
           },
           {
-            "title": "Village markets",
-            "image": "local_haat",
-            "description": "Trade goods"
+            "title": "Settled Cultivators",
+            "image": "farming_village",
+            "description": "Permanent settled farming lifestyle"
           },
           {
-            "title": "Close community",
-            "image": "tribal_group",
-            "description": "Strong unity"
+            "title": "Village Watchmen",
+            "image": "village_guard",
+            "description": "Traditionally served as village guards"
           }
         ]
       },
       {
         "title": "Beliefs",
         "type": "belief",
-        "details": "Traditional faith practices.",
+        "details": "They worship **Mati Deo** (Earth God) and perform rituals for hunting and harvesting success.",
         "data": [
           {
-            "title": "Nature deity",
-            "image": "tribal_deity",
-            "description": "Worship earth god"
+            "title": "Mati Deo Worship",
+            "image": "earth_deity",
+            "description": "Reverence for the Earth God"
           },
           {
-            "title": "Harvest rituals",
-            "image": "harvest_ritual",
-            "description": "Before crop cutting"
+            "title": "Bhairam Dev",
+            "image": "bhairam_shrine",
+            "description": "Worship of the protector deity"
           },
           {
-            "title": "Ancestor worship",
-            "image": "ancestor_ritual",
-            "description": "Family rituals"
+            "title": "Shamanistic Rituals",
+            "image": "siraha",
+            "description": "Spiritual healing by Siraha"
           }
         ]
       },
       {
         "title": "Art & Craft",
         "type": "art",
-        "details": "Local crafts and songs.",
+        "details": "Famous for **Bhatra Nat**, a traditional tribal theater form involving storytelling and acting.",
         "data": [
           {
-            "title": "Folk songs",
-            "image": "folk_song",
-            "description": "Sung in festivals"
+            "title": "Bhatra Nat",
+            "image": "tribal_theater",
+            "description": "Traditional theatrical performance"
           },
           {
-            "title": "Bamboo work",
-            "image": "bamboo_craft",
-            "description": "Household items"
+            "title": "Costume Making",
+            "image": "costumes",
+            "description": "Creating attire for dramas"
           },
           {
-            "title": "Traditional attire",
-            "image": "tribal_dress",
-            "description": "Simple cotton dress"
+            "title": "Wood Carving",
+            "image": "wood_mask",
+            "description": "Masks used in plays"
           }
         ]
       },
       {
         "title": "Food",
         "type": "food",
-        "details": "Agriculture-based diet.",
+        "details": "Their diet includes rice, millets, and delicacies like **Chapda** (red ant chutney).",
         "data": [
-          "Rice",
-          "Dal",
-          "Mahua",
-          "Seasonal vegetables"
+          "Rice and Pej",
+          "Chapda (Red ant chutney)",
+          "Forest Tubers",
+          "Sulfi (Palm wine)"
         ]
       },
       {
         "title": "Festivals",
         "type": "festival",
-        "details": "Seasonal festivals.",
-        "data": [
-          "Hareli",
-          "Navakhai",
-          "Madai"
-        ]
+        "details": "They celebrate **Bali Parab** and **Mati Tihar** with great enthusiasm.",
+        "data": ["Bali Parab", "Mati Tihar", "Navakhani"]
       }
     ]
   },
@@ -487,98 +444,90 @@
     "uniqueTradition": "Karma Dance",
     "region": "North Chhattisgarh (Jashpur, Surguja)",
     "language": "Kurukh",
-    "gallery": [
-      "karma_dance",
-      "oraon_festival",
-      "tribal_village"
-    ],
+    "gallery": ["karma_dance", "oraon_festival", "tribal_village"],
     "sections": [
       {
         "title": "About",
         "type": "about",
-        "details": "Oraon tribe is known for farming and strong village councils.",
+        "details": "The Oraon are famous for their **Dhumkuria** (Youth Dormitory) system and advanced community living.",
         "data": [
           {
-            "title": "Agriculture based",
-            "image": "rice_field",
-            "description": "Farming is main occupation"
+            "title": "Dhumkuria System",
+            "image": "dhumkuria",
+            "description": "Traditional youth learning center"
           },
           {
-            "title": "Organized society",
-            "image": "village_meeting",
-            "description": "Traditional village council system"
+            "title": "Plough Cultivators",
+            "image": "ploughing",
+            "description": "Expert settled farmers"
           },
           {
-            "title": "Community unity",
-            "image": "tribal_group",
-            "description": "Strong social bonding"
+            "title": "Totemic Clans",
+            "image": "totem",
+            "description": "Clans named after animals/plants"
           }
         ]
       },
       {
         "title": "Beliefs",
         "type": "belief",
-        "details": "Deep belief in nature and ancestral spirits.",
+        "details": "They follow the **Sarna** religion, worshipping nature in sacred groves, and honor **Dharmesh** (Sun God).",
         "data": [
           {
-            "title": "Nature worship",
-            "image": "nature_ritual",
-            "description": "Trees and rivers worshipped"
+            "title": "Sarna Dharma",
+            "image": "sacred_grove",
+            "description": "Worship in Sarnasthali (Sacred Grove)"
           },
           {
-            "title": "Ancestor rituals",
-            "image": "ancestor_ritual",
-            "description": "Respect forefathers"
+            "title": "Dharmesh Worship",
+            "image": "sun_symbol",
+            "description": "Supreme Sun Deity"
           },
           {
-            "title": "Village deity",
-            "image": "tribal_temple",
-            "description": "Local gods worshipped"
+            "title": "Ancestor Spirits",
+            "image": "sasandiri",
+            "description": "Burial stones for ancestors"
           }
         ]
       },
       {
         "title": "Art & Craft",
         "type": "art",
-        "details": "Famous for Karma dance and folk songs.",
+        "details": "Renowned for their **geometric wall paintings** and the rhythmic **Karma dance**.",
         "data": [
+          {
+            "title": "Wall Paintings",
+            "image": "tribal_art_wall",
+            "description": "Geometric mud designs"
+          },
           {
             "title": "Karma Dance",
             "image": "karma_dance",
-            "description": "Performed during Karma festival"
+            "description": "Circle dance with Karam branch"
           },
           {
-            "title": "Folk songs",
-            "image": "folk_song",
-            "description": "Traditional musical storytelling"
-          },
-          {
-            "title": "Traditional dress",
-            "image": "oraon_dress",
-            "description": "Colorful tribal attire"
+            "title": "Musical Instruments",
+            "image": "mandar_drum",
+            "description": "Mandar and Nagada drums"
           }
         ]
       },
       {
         "title": "Food",
         "type": "food",
-        "details": "Simple agrarian food habits.",
+        "details": "Staple food is rice and **Gondli**, often accompanied by **Handia** (rice beer) during festivals.",
         "data": [
-          "Rice",
-          "Kodo",
-          "Mahua drink",
-          "Leafy vegetables"
+          "Rice and Gondli",
+          "Handia (Rice beer)",
+          "Dried Mushrooms",
+          "Rugda (Forest vegetable)"
         ]
       },
       {
         "title": "Festivals",
         "type": "festival",
-        "details": "Celebrate agricultural and seasonal festivals.",
-        "data": [
-          "Karma Festival",
-          "Sarhul",
-          "Navakhai"
-        ]
+        "details": "Major festivals are **Sarhul** (Spring) and **Karma**, celebrating nature cycles.",
+        "data": ["Sarhul (Flower festival)", "Karma", "Phagua"]
       }
     ]
   },
@@ -591,98 +540,85 @@
     "uniqueTradition": "Traditional agricultural rituals",
     "region": "Raigarh region",
     "language": "Chhattisgarhi dialect",
-    "gallery": [
-      "binjhwar_village",
-      "tribal_festival",
-      "rice_field"
-    ],
+    "gallery": ["binjhwar_village", "tribal_festival", "rice_field"],
     "sections": [
       {
         "title": "About",
         "type": "about",
-        "details": "Binjhwar tribe is agriculture focused.",
+        "details": "The **Binjhwar** tribe claims a connection to the Vindhya hills and holds the **arrow** (Tir) as a sacred symbol.",
         "data": [
           {
-            "title": "Rice cultivation",
-            "image": "rice_field",
-            "description": "Main crop rice"
+            "title": "Vindhyavasini Lineage",
+            "image": "vindhya_hills",
+            "description": "Claim origin from Vindhyas"
           },
           {
-            "title": "Village life",
-            "image": "tribal_village",
-            "description": "Simple community life"
+            "title": "Sacred Arrow",
+            "image": "arrow_symbol",
+            "description": "Arrow used in all rituals"
           },
           {
-            "title": "Traditional council",
-            "image": "village_meeting",
-            "description": "Local decision system"
+            "title": "Freedom Struggle",
+            "image": "vir_narayan_singh",
+            "description": "Legacy of Veer Narayan Singh"
           }
         ]
       },
       {
         "title": "Beliefs",
         "type": "belief",
-        "details": "Traditional faith and rituals.",
+        "details": "They worship **Vindhyavasini Devi** and have unique marriage rituals where an arrow represents the groom.",
         "data": [
           {
-            "title": "Earth goddess worship",
-            "image": "tribal_deity",
-            "description": "Pray before farming"
+            "title": "Vindhyavasini Devi",
+            "image": "goddess_shrine",
+            "description": "Chief deity worship"
           },
           {
-            "title": "Harvest prayers",
-            "image": "harvest_ritual",
-            "description": "Before crop cutting"
+            "title": "Arrow Marriage",
+            "image": "arrow_marriage",
+            "description": "Ritual marriage with arrow"
           },
           {
-            "title": "Ancestor respect",
-            "image": "ancestor_ritual",
-            "description": "Family rituals"
+            "title": "Thakur Deo",
+            "image": "village_god",
+            "description": "Protector of the village"
           }
         ]
       },
       {
         "title": "Art & Craft",
         "type": "art",
-        "details": "Local songs and handmade crafts.",
+        "details": "Skilled in making **bamboo articles**, mats, and fishing traps from forest materials.",
         "data": [
           {
-            "title": "Folk songs",
-            "image": "folk_song",
-            "description": "Traditional singing"
+            "title": "Basketry",
+            "image": "bamboo_basket",
+            "description": "Intricate bamboo work"
           },
           {
-            "title": "Bamboo items",
-            "image": "bamboo_craft",
-            "description": "Daily use products"
+            "title": "Fishing Traps",
+            "image": "fish_trap",
+            "description": "Traditional fishing gear"
           },
           {
-            "title": "Traditional dress",
-            "image": "tribal_dress",
-            "description": "Simple cotton clothes"
+            "title": "Jewelry",
+            "image": "tribal_jewelry",
+            "description": "Bead and metal ornaments"
           }
         ]
       },
       {
         "title": "Food",
         "type": "food",
-        "details": "Agriculture-based diet.",
-        "data": [
-          "Rice",
-          "Dal",
-          "Leafy vegetables",
-          "Mahua"
-        ]
+        "details": "Their diet depends on rice and forest produce like **Tendu** and **Char**.",
+        "data": ["Rice", "Forest mushrooms", "Tendu fruit", "Fish"]
       },
       {
         "title": "Festivals",
         "type": "festival",
-        "details": "Celebrate farming festivals.",
-        "data": [
-          "Hareli",
-          "Navakhai",
-          "Madai"
-        ]
+        "details": "They celebrate **Jwara** and **Bhojali**, involving the sprouting of wheat/barley.",
+        "data": ["Jwara", "Bhojali", "Hareli"]
       }
     ]
   },
@@ -695,98 +631,89 @@
     "uniqueTradition": "Traditional tribal governance",
     "region": "Raigarh & Korba",
     "language": "Kawari dialect",
-    "gallery": [
-      "kawar_village",
-      "tribal_festival",
-      "agriculture_field"
-    ],
+    "gallery": ["kawar_village", "tribal_festival", "agriculture_field"],
     "sections": [
       {
         "title": "About",
         "type": "about",
-        "details": "Kawar tribe is farming oriented.",
+        "details": "The **Kawar tribe** traces their descent from the **Kauravas** of the Mahabharata and has a martial history.",
         "data": [
           {
-            "title": "Agricultural community",
-            "image": "agriculture_field",
-            "description": "Rice and millet farming"
+            "title": "Mahabharata Lineage",
+            "image": "mahabharata_legend",
+            "description": "Claim descent from Kauravas"
           },
           {
-            "title": "Village leadership",
-            "image": "village_meeting",
-            "description": "Traditional head system"
+            "title": "Military Tradition",
+            "image": "sword_shield",
+            "description": "Served as soldiers (Paik)"
           },
           {
-            "title": "Close-knit families",
-            "image": "tribal_family",
-            "description": "Strong family ties"
+            "title": "Clean Living",
+            "image": "clean_village",
+            "description": "Emphasis on purity and discipline"
           }
         ]
       },
       {
         "title": "Beliefs",
         "type": "belief",
-        "details": "Follow tribal spiritual traditions.",
+        "details": "They strictly follow their clan rules and worship the sword as a symbol of their warrior past.",
         "data": [
           {
-            "title": "Nature worship",
-            "image": "nature_ritual",
-            "description": "Worship earth and sky"
+            "title": "Sword Worship",
+            "image": "sword_worship",
+            "description": "Symbol of bravery"
           },
           {
-            "title": "Clan deity",
-            "image": "clan_ritual",
-            "description": "Each clan deity"
+            "title": "Dulha Deo",
+            "image": "dulha_deo",
+            "description": "Worship of the bridegroom deity"
           },
           {
-            "title": "Harvest rituals",
-            "image": "harvest_ritual",
-            "description": "Before harvesting"
+            "title": "Sagai Devi",
+            "image": "devi_shrine",
+            "description": "Clan goddess"
           }
         ]
       },
       {
         "title": "Art & Craft",
         "type": "art",
-        "details": "Folk dance and crafts.",
+        "details": "Their artistic expression is seen in **wall paintings** during festivals and martial dance forms.",
         "data": [
           {
-            "title": "Traditional dance",
-            "image": "tribal_dance",
-            "description": "Group performances"
+            "title": "Wall Reliefs",
+            "image": "wall_relief",
+            "description": "Mud relief work on walls"
           },
           {
-            "title": "Handmade crafts",
-            "image": "bamboo_craft",
-            "description": "Daily household items"
+            "title": "War Dances",
+            "image": "war_dance",
+            "description": "Dances mimicking combat"
           },
           {
-            "title": "Folk songs",
-            "image": "folk_song",
-            "description": "Seasonal songs"
+            "title": "Tattooing",
+            "image": "tattoo_art",
+            "description": "Traditional Godna art"
           }
         ]
       },
       {
         "title": "Food",
         "type": "food",
-        "details": "Simple agrarian food habits.",
+        "details": "Staple food is rice and pulses; many have adopted vegetarianism due to reform movements.",
         "data": [
-          "Rice",
-          "Millets",
-          "Vegetables",
-          "Mahua"
+          "Rice and Urad Dal",
+          "Vegetarian Dish",
+          "Mahua (Religious use)"
         ]
       },
       {
         "title": "Festivals",
         "type": "festival",
-        "details": "Celebrate agricultural festivals.",
-        "data": [
-          "Hareli",
-          "Navakhai",
-          "Madai"
-        ]
+        "details": "Celebrations include **Hareli** and **Laruj Kaj**, a unique pig sacrifice festival (though declining).",
+        "data": ["Laruj Kaj", "Hareli", "Pola"]
       }
     ]
   },
@@ -799,11 +726,7 @@
     "uniqueTradition": "Traditional Archery",
     "region": "Korba, Surguja, Jashpur (Chhattisgarh)",
     "language": "Korwa / Sadri",
-    "gallery": [
-      "hilly_forest",
-      "traditional_hut",
-      "forest_tools"
-    ],
+    "gallery": ["hilly_forest", "traditional_hut", "forest_tools"],
     "sections": [
       {
         "title": "About",
@@ -875,11 +798,7 @@
         "title": "Food Sources",
         "type": "food",
         "details": "Their food sources are primarily **foraged** from the wild, including roots, tubers, and mahua.",
-        "data": [
-          "Mahua",
-          "Roots and tubers",
-          "Wild fruits"
-        ]
+        "data": ["Mahua", "Roots and tubers", "Wild fruits"]
       }
     ]
   }
