@@ -40,8 +40,8 @@
     "gallery": ["bastar_dussehra_1", "bastar_dussehra_2", "bastar_dussehra_3"],
     "sections": []
   },
-  
-   "rajim-kumbh-kalp": {
+
+  "rajim-kumbh-kalp": {
     "id": "rajim-kumbh-kalp",
     "name": "Rajim Kumbh Kalp",
     "tagline": "The spiritual confluence of faith, rivers, and tradition",
@@ -265,8 +265,7 @@
     "sections": []
   },
 
-
-   "chherchhera": {
+  "chherchhera": {
     "id": "chherchhera",
     "name": "Chherchhera",
     "tagline": "A harvest-sharing festival of generosity and community",
@@ -366,7 +365,7 @@
     "gallery": ["goura_gouri_1", "goura_gouri_2"],
     "sections": []
   },
-    "karma-festival": {
+  "karma-festival": {
     "id": "karma-festival",
     "name": "Karma Festival",
     "tagline": "A tribal celebration of nature, youth, and destiny",
@@ -461,4 +460,103 @@
     "gallery": ["bhojali_1", "bhojali_2"],
     "sections": []
   },
+
+  "champaran-mela": {
+    "id": "champaran-mela",
+    "name": "Champaran Mela",
+    "tagline": "A grand pilgrimage honoring Saint Vallabhacharya",
+    "month": "Jan",
+    "months": ["Jan"],
+    "duration": "5 to 7 days",
+    "location": "Champaran, Chhattisgarh",
+    "description": "**Champaran Mela** is a major religious gathering held at the birthplace of **Saint Vallabhacharya**, the founder of the Pushtimarg sect.\n\nThousands of devotees visit the temple to offer prayers and participate in spiritual discourses.\n\n• Pilgrimage to Vallabhacharya's birthplace\n• Devotional singing and rituals\n• Large community gatherings",
+    "image": "champaran_mela_1",
+    "deity": "Lord Krishna",
+    "season": "Winter",
+    "districtId": "Raipur",
+    "festivalType": "Religious",
+    "whoCelebrates": ["Vaishnav Community", "Pilgrims"],
+    "meaning": "The festival commemorates the spiritual legacy of Vallabhacharya.\n\nIt reinforces devotion, community bonding, and preservation of Vaishnav traditions.",
+    "traditions": [
+      {
+        "title": "Temple Worship",
+        "description": "Devotees offer prayers and perform rituals at the Vallabhacharya temple.",
+        "icon": "flower"
+      },
+      {
+        "title": "Bhajan-Kirtan",
+        "description": "Religious hymns and devotional songs are sung throughout the gathering.",
+        "icon": "music"
+      }
+    ],
+    "gallery": ["champaran_mela_1", "champaran_mela_2"],
+    "sections": []
+  },
+
+  "fagun-madai": {
+    "id": "fagun-madai",
+    "name": "Fagun Madai",
+    "tagline": "The spring phase of the traveling Madai celebration",
+    "month": "Mar",
+    "months": ["Feb", "Mar"],
+    "duration": "Seasonal village gatherings",
+    "location": "Bastar division villages",
+    "description": "**Fagun Madai** marks the concluding spring phase of the broader Madai festival cycle.\n\nHeld during the month of Phagun, it combines ritual worship with vibrant fairs and cultural performances.\n\n• Worship of village deities\n• Seasonal fairs and markets\n• Traditional music and dance",
+    "image": "fagun_madai_1",
+    "deity": "Local Tribal Deities",
+    "season": "Spring",
+    "districtId": "Narayanpur",
+    "festivalType": "Cultural",
+    "whoCelebrates": ["Gond", "Maria", "Muria"],
+    "meaning": "Fagun Madai symbolizes renewal and the transition toward a new agricultural cycle.\n\nIt strengthens inter-village relationships and keeps tribal traditions alive through seasonal gatherings.",
+    "traditions": [
+      {
+        "title": "Deity Gathering",
+        "description": "Village deities are ceremonially brought together in a central ground for collective worship.",
+        "icon": "tent"
+      },
+      {
+        "title": "Tribal Dance Performances",
+        "description": "Groups perform energetic dances accompanied by drums and traditional instruments.",
+        "icon": "drum"
+      }
+    ],
+    "gallery": ["fagun_madai_1", "fagun_madai_2"],
+    "sections": []
+  },
+
+  "danteshwari-temple-festival": {
+    "id": "danteshwari-temple-festival",
+    "name": "Danteshwari Temple Festival",
+    "tagline": "Devotion to the guardian goddess of Bastar",
+    "month": "Oct",
+    "months": ["Oct"],
+    "duration": "9 days",
+    "location": "Dantewada",
+    "description": "**Danteshwari Temple Festival** is celebrated at the historic Danteshwari Temple dedicated to **Goddess Danteshwari**, the presiding deity of Bastar.\n\nThe festival holds immense spiritual importance and is closely linked to the traditions of Bastar Dussehra.\n\n• Special temple rituals and aartis\n• Pilgrimage of devotees from across Bastar\n• Cultural performances during Navratri",
+    "image": "danteshwari_temple_festival_1",
+    "deity": "Goddess Danteshwari",
+    "season": "Autumn",
+    "districtId": "Dantewada",
+    "festivalType": "Religious",
+    "whoCelebrates": ["Tribal Communities", "Devotees"],
+    "meaning": "The festival honors the spiritual protector of Bastar.\n\nIt reinforces regional faith traditions and the sacred status of the Danteshwari Temple.",
+    "traditions": [
+      {
+        "title": "Navratri Rituals",
+        "description": "Special prayers and offerings are performed during the nine nights of Navratri.",
+        "icon": "moon"
+      },
+      {
+        "title": "Temple Fair",
+        "description": "Devotees gather in large numbers and participate in cultural and devotional activities.",
+        "icon": "users"
+      }
+    ],
+    "gallery": [
+      "danteshwari_temple_festival_1",
+      "danteshwari_temple_festival_2"
+    ],
+    "sections": []
+  }
 }
