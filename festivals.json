@@ -40,4 +40,132 @@
     "gallery": ["bastar_dussehra_1", "bastar_dussehra_2", "bastar_dussehra_3"],
     "sections": []
   }
+  
+   "rajim-kumbh-kalp": {
+    "id": "rajim-kumbh-kalp",
+    "name": "Rajim Kumbh Kalp",
+    "tagline": "The spiritual confluence of faith, rivers, and tradition",
+    "month": "Feb",
+    "months": ["Feb", "Mar"],
+    "duration": "15 days",
+    "location": "Rajim, Triveni Sangam region",
+    "description": "**Rajim Kumbh Kalp** is a major spiritual and cultural festival held at the sacred Triveni Sangam in Chhattisgarh, where the **Mahanadi, Pairi, and Sondur rivers** meet.\n\nOften referred to as the *Prayagraj of Chhattisgarh*, the festival attracts saints, pilgrims, and devotees from across the state.\n\n• Sacred river bathing rituals\n• Spiritual discourses and satsangs\n• Blend of tribal and classical traditions",
+    "image": "rajim_kumbh_kalp_1",
+    "deity": "Lord Vishnu",
+    "season": "Spring",
+    "districtId": "Gariaband",
+    "festivalType": "Religious",
+    "whoCelebrates": ["Hindu Communities", "Local Tribes"],
+    "meaning": "The festival symbolizes spiritual purification, devotion, and harmony between nature and faith.\n\nIt also represents Chhattisgarh’s identity as a land of ancient river-based culture.",
+    "traditions": [
+      {
+        "title": "Triveni Snan",
+        "description": "Devotees take a holy dip at the river confluence believing it cleanses sins and grants spiritual merit.",
+        "icon": "droplets"
+      },
+      {
+        "title": "Sant Samagam",
+        "description": "Saints and spiritual leaders conduct discourses, prayers, and philosophical discussions.",
+        "icon": "users"
+      }
+    ],
+    "gallery": ["rajim_kumbh_kalp_1", "rajim_kumbh_kalp_2"],
+    "sections": []
+  },
+
+  "hareli": {
+    "id": "hareli",
+    "name": "Hareli",
+    "tagline": "A festival celebrating farming, cattle, and greenery",
+    "month": "Jul",
+    "months": ["Jul", "Aug"],
+    "duration": "1 day",
+    "location": "Across rural Chhattisgarh",
+    "description": "**Hareli** is one of the most important agricultural festivals of Chhattisgarh, marking the beginning of the monsoon and the farming season.\n\nThe festival reflects the deep bond between farmers, cattle, and nature.\n\n• Worship of farming tools\n• Care and decoration of cattle\n• Symbol of prosperity and greenery",
+    "image": "hareli_1",
+    "deity": "Nature Deities",
+    "season": "Monsoon",
+    "districtId": "Raipur",
+    "festivalType": "Harvest",
+    "whoCelebrates": ["Farming Communities", "Tribal Communities"],
+    "meaning": "Hareli signifies gratitude towards nature and animals that sustain agricultural life.\n\nIt emphasizes harmony between humans, livestock, and the environment.",
+    "traditions": [
+      {
+        "title": "Tool Worship",
+        "description": "Agricultural tools are cleaned and worshipped to pray for a successful farming season.",
+        "icon": "hammer"
+      },
+      {
+        "title": "Cattle Decoration",
+        "description": "Cows and bullocks are bathed, decorated, and honored as symbols of wealth and strength.",
+        "icon": "leaf"
+      }
+    ],
+    "gallery": ["hareli_1", "hareli_2"],
+    "sections": []
+  },
+
+  "teeja": {
+    "id": "teeja",
+    "name": "Teeja (Teej)",
+    "tagline": "A festival of devotion, fasting, and marital faith",
+    "month": "Aug",
+    "months": ["Aug", "Sep"],
+    "duration": "3 days",
+    "location": "Urban and rural Chhattisgarh",
+    "description": "**Teeja**, also known as **Teej**, is a traditional festival primarily observed by married women.\n\nThe festival is dedicated to devotion, marital well-being, and feminine strength.\n\n• Observed through fasting\n• Traditional songs and swings\n• Strong social and emotional significance",
+    "image": "teeja_1",
+    "deity": "Goddess Parvati",
+    "season": "Monsoon",
+    "districtId": "Bilaspur",
+    "festivalType": "Religious",
+    "whoCelebrates": ["Married Women", "Families"],
+    "meaning": "Teeja represents dedication, patience, and faith in marital life.\n\nIt strengthens social bonds and preserves age-old traditions centered around womanhood.",
+    "traditions": [
+      {
+        "title": "Nirjala Vrat",
+        "description": "Women observe a strict fast without food or water, praying for their husband’s long life.",
+        "icon": "moon"
+      },
+      {
+        "title": "Folk Singing",
+        "description": "Women sing traditional songs expressing emotions, devotion, and cultural stories.",
+        "icon": "music"
+      }
+    ],
+    "gallery": ["teeja_1", "teeja_2"],
+    "sections": []
+  },
+
+  "pola": {
+    "id": "pola",
+    "name": "Pola",
+    "tagline": "Honoring the strength of bulls and farming life",
+    "month": "Aug",
+    "months": ["Aug", "Sep"],
+    "duration": "1 day",
+    "location": "Rural farming regions",
+    "description": "**Pola** is an agricultural festival dedicated to bulls, which are essential to traditional farming practices.\n\nThe festival reflects respect for animals that support rural livelihoods.\n\n• Bulls are decorated and worshipped\n• Farming communities gather and celebrate\n• Strong rural identity",
+    "image": "pola_1",
+    "deity": "Cattle Deities",
+    "season": "Monsoon",
+    "districtId": "Durg",
+    "festivalType": "Harvest",
+    "whoCelebrates": ["Farmers", "Rural Communities"],
+    "meaning": "Pola symbolizes gratitude towards bulls for their role in agriculture.\n\nIt reinforces respect for labor, animals, and rural traditions.",
+    "traditions": [
+      {
+        "title": "Bull Worship",
+        "description": "Bulls are washed, decorated, and honored through rituals and prayers.",
+        "icon": "flower"
+      },
+      {
+        "title": "Village Processions",
+        "description": "Decorated bulls are paraded through villages accompanied by music and celebration.",
+        "icon": "drum"
+      }
+    ],
+    "gallery": ["pola_1", "pola_2"],
+    "sections": []
+  }
 }
