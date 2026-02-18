@@ -264,4 +264,106 @@
     "gallery": ["madai_festival_1", "madai_festival_2"],
     "sections": []
   },
+
+
+   "chherchhera": {
+    "id": "chherchhera",
+    "name": "Chherchhera",
+    "tagline": "A harvest-sharing festival of generosity and community",
+    "month": "Jan",
+    "months": ["Jan"],
+    "duration": "1 day",
+    "location": "Rural Chhattisgarh",
+    "description": "**Chherchhera** is a traditional harvest festival celebrated on the full moon of the Paush month.\n\nThe festival revolves around sharing newly harvested rice and grains within the community.\n\nChildren and villagers go door-to-door singing traditional lines and asking for grains, symbolizing equality and collective prosperity.\n\n• Celebration after harvest season\n• Community grain sharing ritual\n• Strong rural identity",
+    "image": "chherchhera_1",
+    "deity": "Village Deities",
+    "season": "Winter",
+    "districtId": "Raipur",
+    "festivalType": "Harvest",
+    "whoCelebrates": ["Farming Communities", "Rural Families"],
+    "meaning": "Chherchhera reinforces the idea that prosperity must be shared.\n\nIt strengthens social bonds and reflects the agrarian foundation of Chhattisgarh’s culture.",
+    "traditions": [
+      {
+        "title": "Door-to-Door Grain Collection",
+        "description": "Children visit households singing traditional chants and collect rice or grains as symbolic offerings.",
+        "icon": "food"
+      },
+      {
+        "title": "Community Distribution",
+        "description": "Collected grains are shared or used for community meals, promoting unity and equality.",
+        "icon": "users"
+      }
+    ],
+    "gallery": ["chherchhera_1", "chherchhera_2"],
+    "sections": []
+  },
+
+  "raut-nacha": {
+    "id": "raut-nacha",
+    "name": "Raut Nacha",
+    "tagline": "The warrior dance festival of the Yadav community",
+    "month": "Nov",
+    "months": ["Nov"],
+    "duration": "11 days",
+    "location": "Plains of Chhattisgarh",
+    "description": "**Raut Nacha** is a vibrant festival celebrated primarily by the Yadav (Raut) community after Diwali.\n\nIt commemorates the martial spirit and devotion of Lord Krishna while showcasing energetic group dance performances.\n\nPerformers wear traditional attire and carry sticks or swords, moving rhythmically to drums and folk music.\n\n• Community-based warrior dance\n• Celebration after Diwali\n• Strong link to Krishna devotion",
+    "image": "raut_nacha_1",
+    "deity": "Lord Krishna",
+    "season": "Winter",
+    "districtId": "Bilaspur",
+    "festivalType": "Cultural",
+    "whoCelebrates": ["Yadav Community"],
+    "meaning": "Raut Nacha symbolizes bravery, devotion, and community pride.\n\nIt preserves oral traditions, music, and dance heritage passed through generations.",
+    "traditions": [
+      {
+        "title": "Warrior Dance Processions",
+        "description": "Groups perform synchronized dances in village streets using sticks or traditional weapons.",
+        "icon": "drum"
+      },
+      {
+        "title": "Krishna Devotional Songs",
+        "description": "Folk songs narrating stories of Lord Krishna are sung during performances.",
+        "icon": "music"
+      },
+      {
+        "title": "Community Visits",
+        "description": "Dance troupes visit different villages, strengthening inter-community ties.",
+        "icon": "users"
+      }
+    ],
+    "gallery": ["raut_nacha_1", "raut_nacha_2"],
+    "sections": []
+  },
+
+  "goura-gouri": {
+    "id": "goura-gouri",
+    "name": "Goura-Gouri Festival",
+    "tagline": "A sacred celebration of divine marital harmony",
+    "month": "Oct",
+    "months": ["Oct", "Nov"],
+    "duration": "3 to 5 days",
+    "location": "Rural and tribal regions of Chhattisgarh",
+    "description": "**Goura-Gouri Festival** is a traditional celebration honoring the divine couple, Lord Shiva (Goura) and Goddess Parvati (Gouri).\n\nClay idols of the deities are crafted and worshipped with songs and rituals.\n\nThe festival highlights marital harmony, fertility, and family prosperity.\n\n• Idol crafting and worship\n• Community singing and rituals\n• Strong rural participation",
+    "image": "goura_gouri_1",
+    "deity": "Lord Shiva and Goddess Parvati",
+    "season": "Autumn",
+    "districtId": "Janjgir-Champa",
+    "festivalType": "Religious",
+    "whoCelebrates": ["Rural Communities", "Tribal Families"],
+    "meaning": "The festival emphasizes marital unity, devotion, and domestic harmony.\n\nIt reflects deep-rooted traditions centered around family and agricultural life.",
+    "traditions": [
+      {
+        "title": "Clay Idol Installation",
+        "description": "Handcrafted clay idols of Goura and Gouri are installed and worshipped in homes or community spaces.",
+        "icon": "mountain"
+      },
+      {
+        "title": "Folk Ritual Singing",
+        "description": "Women and elders sing traditional songs narrating divine love and blessings.",
+        "icon": "music"
+      }
+    ],
+    "gallery": ["goura_gouri_1", "goura_gouri_2"],
+    "sections": []
+  },
 }
