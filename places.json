@@ -5,10 +5,7 @@
     "districtId": "Bastar",
     "category": "Waterfall",
     "image": "chitrakotwaterfall",
-    "gallery": [
-      "chitrakotwaterfall",
-      "teerathgarhfalls"
-    ],
+    "gallery": ["chitrakotwaterfall", "teerathgarhfalls"],
     "description": "Known as the Niagara of India, this is the widest waterfall in India.",
     "location": {
       "latitude": 19.2059,
@@ -19,781 +16,83 @@
         "title": "Culture & Festivals",
         "type": "festival",
         "details": "Experience the grand **Bastar Dussehra** nearby.",
-        "data": [
-          "bastar-dussehra"
-        ]
+        "data": ["bastar-dussehra"]
       },
       {
         "title": "Local Cuisine",
         "type": "food",
         "details": "Don't miss the unique **Chapda Chutney**.",
-        "data": [
-          "chapda"
-        ]
+        "data": ["chapda"]
       }
     ]
   },
-  "bhoramdeo-temple": {
-    "id": "bhoramdeo-temple",
-    "name": "Bhoramdeo Temple",
-    "districtId": "Kabirdham",
-    "category": "Temple",
-    "image": "bhoramdeotemple",
-    "gallery": [
-      "bhoramdeotemple"
-    ],
-    "description": "Ancient Shiva temple known as the Khajuraho of Chhattisgarh for its intricate carvings.",
-    "location": {
-      "latitude": 22.1020,
-      "longitude": 81.2517
-    },
-    "sections": [
-      {
-        "title": "Major Festival",
-        "type": "festival",
-        "details": "Mahashivratri is celebrated here with great devotion.",
-        "data": [
-          "mahashivratri"
-        ]
-      },
-      {
-        "title": "Local Cuisine",
-        "type": "food",
-        "details": "Taste traditional Chhattisgarhi **Fara** and **Chila**.",
-        "data": [
-          "fara",
-          "chila"
-        ]
-      }
-    ]
-  },
-  "kanger-valley": {
-    "id": "kanger-valley",
-    "name": "Kanger Valley National Park",
+  "teerathgarh-falls": {
+    "id": "teerathgarh-falls",
+    "name": "Teerathgarh Waterfalls",
     "districtId": "Bastar",
-    "category": "National Park",
-    "image": "kanger",
-    "gallery": [
-      "kanger"
-    ],
-    "description": "Famous for limestone caves, waterfalls and rich biodiversity.",
-    "location": {
-      "latitude": 19.0710,
-      "longitude": 81.9500
-    },
-    "sections": [
-      {
-        "title": "Nearby Attraction",
-        "type": "place",
-        "details": "Includes **Kutumsar Caves** and **Tirathgarh Falls**.",
-        "data": [
-          "kutumsar-caves",
-          "tirathgarh-falls"
-        ]
-      },
-      {
-        "title": "Local Cuisine",
-        "type": "food",
-        "details": "Try tribal delicacy **Chapda Chutney**.",
-        "data": [
-          "chapda"
-        ]
-      }
-    ]
-  },
-  "kutumsar-caves": {
-    "id": "kutumsar-caves",
-    "name": "Kutumsar Caves",
-    "districtId": "Bastar",
-    "category": "Cave",
-    "image": "kutumsar",
-    "gallery": [
-      "kutumsar"
-    ],
-    "description": "One of the longest and deepest limestone caves in India.",
-    "location": {
-      "latitude": 19.0842,
-      "longitude": 81.9575
-    },
-    "sections": [
-      {
-        "title": "Adventure",
-        "type": "info",
-        "details": "Popular for cave exploration and eco-tourism.",
-        "data": []
-      }
-    ]
-  },
-  "rajim": {
-    "id": "rajim",
-    "name": "Rajim",
-    "districtId": "Gariaband",
-    "category": "Religious",
-    "image": "rajim",
-    "gallery": [
-      "rajim"
-    ],
-    "description": "Known as the Prayag of Chhattisgarh at the confluence of three rivers.",
-    "location": {
-      "latitude": 20.9667,
-      "longitude": 81.8833
-    },
-    "sections": [
-      {
-        "title": "Major Festival",
-        "type": "festival",
-        "details": "Hosts the famous **Rajim Maghi Punni Mela**.",
-        "data": [
-          "rajim-maghi-punni"
-        ]
-      }
-    ]
-  },
-  "barsur": {
-    "id": "barsur",
-    "name": "Barsur",
-    "districtId": "Bastar",
-    "category": "Historical",
-    "image": "barsur",
-    "gallery": [
-      "barsur"
-    ],
-    "description": "Ancient temple town known for twin Ganesha idols and historical ruins.",
-    "location": {
-      "latitude": 19.1000,
-      "longitude": 81.8000
-    },
-    "sections": []
-  },
-  "madku-dweep": {
-    "id": "madku-dweep",
-    "name": "Madku Dweep",
-    "districtId": "Bilaspur",
-    "category": "Island",
-    "image": "madkudweep",
-    "gallery": [
-      "madkudweep"
-    ],
-    "description": "A scenic island on the Shivnath River known for archaeological remains.",
-    "location": {
-      "latitude": 22.0900,
-      "longitude": 82.1500
-    },
-    "sections": []
-  },
-  "ratanpur": {
-    "id": "ratanpur",
-    "name": "Ratanpur",
-    "districtId": "Bilaspur",
-    "category": "Religious",
-    "image": "ratanpur",
-    "gallery": [
-      "ratanpur"
-    ],
-    "description": "Famous for Mahamaya Temple and ancient Kalchuri heritage.",
-    "location": {
-      "latitude": 22.2870,
-      "longitude": 82.1660
-    },
-    "sections": [
-      {
-        "title": "Major Festival",
-        "type": "festival",
-        "details": "Navratri celebrations attract large devotees.",
-        "data": [
-          "navratri"
-        ]
-      }
-    ]
-  },
-  "girodhpuri": {
-    "id": "girodhpuri",
-    "name": "Girodhpuri Dham",
-    "districtId": "Balodabazar",
-    "category": "Religious",
-    "image": "girodhpuri",
-    "gallery": [
-      "girodhpuri"
-    ],
-    "description": "Birthplace of Guru Ghasidas and an important Satnami pilgrimage site.",
-    "location": {
-      "latitude": 21.7000,
-      "longitude": 82.0000
-    },
-    "sections": [
-      {
-        "title": "Major Festival",
-        "type": "festival",
-        "details": "Celebration of **Guru Ghasidas Jayanti**.",
-        "data": [
-          "ghasidas-jayanti"
-        ]
-      }
-    ]
-  },
-  "jagdalpur-palace": {
-    "id": "jagdalpur-palace",
-    "name": "Jagdalpur Palace",
-    "districtId": "Bastar",
-    "category": "Historical",
-    "image": "jagdalpurpalace",
-    "gallery": [
-      "jagdalpurpalace"
-    ],
-    "description": "Royal palace of the Bastar kings reflecting tribal heritage.",
-    "location": {
-      "latitude": 19.0748,
-      "longitude": 82.0083
-    },
-    "sections": [
-      {
-        "title": "Culture & Festivals",
-        "type": "festival",
-        "details": "Associated with grand **Bastar Dussehra** celebrations.",
-        "data": [
-          "bastar-dussehra"
-        ]
-      }
-    ]
-  },
-  "tala": {
-    "id": "tala",
-    "name": "Tala (Devrani-Jethani Temple)",
-    "districtId": "Bilaspur",
-    "category": "Temple",
-    "image": "tala",
-    "gallery": [
-      "tala"
-    ],
-    "description": "Famous for unique Rudra Shiva sculpture and ancient temple architecture.",
-    "location": {
-      "latitude": 22.1000,
-      "longitude": 82.2000
-    },
-    "sections": []
-  },
-  "sitanadi-wildlife-sanctuary": {
-    "id": "sitanadi-wildlife-sanctuary",
-    "name": "Sitanadi Wildlife Sanctuary",
-    "districtId": "Dhamtari",
-    "category": "Wildlife Sanctuary",
-    "image": "sitanadi",
-    "gallery": [
-      "sitanadi"
-    ],
-    "description": "A major wildlife sanctuary known for rich biodiversity and natural forests.",
-    "location": {
-      "latitude": 20.2500,
-      "longitude": 81.7500
-    },
-    "sections": [
-      {
-        "title": "Nearby Attraction",
-        "type": "place",
-        "details": "Part of the Udanti-Sitanadi Tiger Reserve.",
-        "data": [
-          "udanti-tiger-reserve"
-        ]
-      }
-    ]
-  },
-  "udanti-tiger-reserve": {
-    "id": "udanti-tiger-reserve",
-    "name": "Udanti Tiger Reserve",
-    "districtId": "Gariaband",
-    "category": "Tiger Reserve",
-    "image": "udanti",
-    "gallery": [
-      "udanti"
-    ],
-    "description": "Known for wild buffalo conservation and dense forests.",
-    "location": {
-      "latitude": 20.2000,
-      "longitude": 82.0000
-    },
-    "sections": []
-  },
-  "amrit-dhara-waterfall": {
-    "id": "amrit-dhara-waterfall",
-    "name": "Amrit Dhara Waterfall",
-    "districtId": "Koriya",
     "category": "Waterfall",
-    "image": "amritdhara",
-    "gallery": [
-      "amritdhara"
-    ],
-    "description": "Beautiful waterfall on the Hasdeo River surrounded by greenery.",
+    "image": "teerathgarhfalls",
+    "gallery": ["teerathgarhfalls", "chitrakotwaterfall"],
+    "description": "A stunning multi-tiered waterfall inside Kanger Valley National Park.",
     "location": {
-      "latitude": 23.3000,
-      "longitude": 82.6000
+      "latitude": 18.9125,
+      "longitude": 81.8669
     },
     "sections": []
   },
-  "ramgarh-hill": {
-    "id": "ramgarh-hill",
-    "name": "Ramgarh Hill & Caves",
-    "districtId": "Surguja",
-    "category": "Historical",
-    "image": "ramgarh",
-    "gallery": [
-      "ramgarh"
-    ],
-    "description": "Ancient caves believed to be associated with Ramayana era.",
-    "location": {
-      "latitude": 23.0000,
-      "longitude": 83.1000
-    },
-    "sections": []
-  },
-  "chaiturgarh-fort": {
-    "id": "chaiturgarh-fort",
-    "name": "Chaiturgarh Fort",
+  "silver-jubilee-park": {
+    "id": "silver-jubilee-park",
+    "name": "Silver Jubilee Park",
     "districtId": "Korba",
-    "category": "Fort",
-    "image": "chaiturgarh",
-    "gallery": [
-      "chaiturgarh"
-    ],
-    "description": "Hilltop fort known for Mahishasur Mardini Temple.",
+    "category": "Park",
+    "image": "teerathgarhfalls",
+    "gallery": ["teerathgarhfalls"],
+    "description": "A beautiful park in the heart of Korba, perfect for evening walks and boating.",
     "location": {
-      "latitude": 22.5000,
-      "longitude": 82.7000
-    },
-    "sections": [
-      {
-        "title": "Religious Importance",
-        "type": "festival",
-        "details": "Navratri is celebrated with devotion here.",
-        "data": [
-          "navratri"
-        ]
-      }
-    ]
-  },
-  "malhar": {
-    "id": "malhar",
-    "name": "Malhar",
-    "districtId": "Bilaspur",
-    "category": "Historical",
-    "image": "malhar",
-    "gallery": [
-      "malhar"
-    ],
-    "description": "Ancient archaeological site with Pataleshwar Temple.",
-    "location": {
-      "latitude": 22.1000,
-      "longitude": 82.3000
+      "latitude": 22.35,
+      "longitude": 82.68
     },
     "sections": []
   },
-  "kailash-caves": {
-    "id": "kailash-caves",
-    "name": "Kailash Caves",
-    "districtId": "Jashpur",
-    "category": "Cave",
-    "image": "kailashcaves",
-    "gallery": [
-      "kailashcaves"
-    ],
-    "description": "Natural cave shrine dedicated to Lord Shiva.",
+  "hasdeo-bango-dam": {
+    "id": "hasdeo-bango-dam",
+    "name": "Hasdeo Bango Dam",
+    "districtId": "Korba",
+    "category": "Dam",
+    "image": "chitrakotwaterfall",
+    "gallery": ["chitrakotwaterfall"],
+    "description": "One of the largest dams in Chhattisgarh, offering scenic views and water sports.",
     "location": {
-      "latitude": 22.9000,
-      "longitude": 84.1000
-    },
-    "sections": [
-      {
-        "title": "Major Festival",
-        "type": "festival",
-        "details": "Mahashivratri draws large number of devotees.",
-        "data": [
-          "mahashivratri"
-        ]
-      }
-    ]
-  },
-  "devbaloda-temple": {
-    "id": "devbaloda-temple",
-    "name": "Devbaloda Temple",
-    "districtId": "Durg",
-    "category": "Temple",
-    "image": "devbaloda",
-    "gallery": [
-      "devbaloda"
-    ],
-    "description": "Ancient Shiva temple with beautiful carvings.",
-    "location": {
-      "latitude": 21.1900,
-      "longitude": 81.2800
+      "latitude": 22.6,
+      "longitude": 82.6
     },
     "sections": []
   },
-  "khallari-temple": {
-    "id": "khallari-temple",
-    "name": "Khallari Temple",
-    "districtId": "Mahasamund",
-    "category": "Temple",
-    "image": "khallari",
-    "gallery": [
-      "khallari"
-    ],
-    "description": "Hilltop temple dedicated to Goddess Durga.",
-    "location": {
-      "latitude": 21.2000,
-      "longitude": 82.1000
-    },
-    "sections": [
-      {
-        "title": "Major Festival",
-        "type": "festival",
-        "details": "Navratri celebrations are grand here.",
-        "data": [
-          "navratri"
-        ]
-      }
-    ]
-  },
-  "barnawapara-wildlife": {
-    "id": "barnawapara-wildlife",
-    "name": "Barnawapara Wildlife Sanctuary",
-    "districtId": "Balodabazar",
-    "category": "Wildlife Sanctuary",
-    "image": "barnawapara",
-    "gallery": [
-      "barnawapara"
-    ],
-    "description": "Known for leopards, deer and scenic forest landscapes.",
-    "location": {
-      "latitude": 21.0000,
-      "longitude": 82.2000
-    },
-    "sections": []
-  },
-  "danteshwari-temple": {
-    "id": "danteshwari-temple",
-    "name": "Danteshwari Temple",
-    "districtId": "Dantewada",
-    "category": "Temple",
-    "image": "danteshwari",
-    "gallery": [
-      "danteshwari"
-    ],
-    "description": "One of the 52 Shakti Peethas, dedicated to Goddess Danteshwari.",
-    "location": {
-      "latitude": 18.9000,
-      "longitude": 81.3500
-    },
-    "sections": [
-      {
-        "title": "Major Festival",
-        "type": "festival",
-        "details": "Central role in grand Bastar Dussehra celebrations.",
-        "data": [
-          "bastar-dussehra"
-        ]
-      }
-    ]
-  },
-  "chitradhara-falls": {
-    "id": "chitradhara-falls",
-    "name": "Chitradhara Waterfall",
-    "districtId": "Bastar",
-    "category": "Waterfall",
-    "image": "chitradhara",
-    "gallery": [
-      "chitradhara"
-    ],
-    "description": "Seasonal waterfall near Chitrakot surrounded by rocks.",
-    "location": {
-      "latitude": 19.2100,
-      "longitude": 81.7200
-    },
-    "sections": []
-  },
-  "keshkal-valley": {
-    "id": "keshkal-valley",
-    "name": "Keshkal Valley",
-    "districtId": "Kondagaon",
-    "category": "Valley",
-    "image": "keshkal",
-    "gallery": [
-      "keshkal"
-    ],
-    "description": "Scenic valley known for its 12 hairpin bends and greenery.",
-    "location": {
-      "latitude": 20.1000,
-      "longitude": 81.6000
-    },
-    "sections": []
-  },
-  "gaur-ghat": {
-    "id": "gaur-ghat",
-    "name": "Gaur Ghat",
-    "districtId": "Raipur",
-    "category": "Riverfront",
-    "image": "gaurghat",
-    "gallery": [
-      "gaurghat"
-    ],
-    "description": "Peaceful riverbank spot on Mahanadi for relaxation.",
-    "location": {
-      "latitude": 21.2500,
-      "longitude": 81.6300
-    },
-    "sections": []
-  },
-  "vivekanand-sarovar": {
-    "id": "vivekanand-sarovar",
-    "name": "Vivekanand Sarovar (Budha Talab)",
-    "districtId": "Raipur",
+  "buka-lake": {
+    "id": "buka-lake",
+    "name": "Buka Lake (Golden Island)",
+    "districtId": "Korba",
     "category": "Lake",
-    "image": "budhatalab",
-    "gallery": [
-      "budhatalab"
-    ],
-    "description": "Popular lake in Raipur city with evening fountain show.",
+    "image": "bhoramdeotemple",
+    "gallery": ["bhoramdeotemple"],
+    "description": "An emerging eco-tourism spot known for its island-like vibe and boating.",
     "location": {
-      "latitude": 21.2370,
-      "longitude": 81.6337
+      "latitude": 22.5,
+      "longitude": 82.5
     },
     "sections": []
   },
-  "purkhauti-muktangan": {
-    "id": "purkhauti-muktangan",
-    "name": "Purkhauti Muktangan",
-    "districtId": "Raipur",
-    "category": "Museum",
-    "image": "purkhauti",
-    "gallery": [
-      "purkhauti"
-    ],
-    "description": "Open-air museum showcasing tribal culture of Chhattisgarh.",
-    "location": {
-      "latitude": 21.3000,
-      "longitude": 81.7000
-    },
-    "sections": []
-  },
-  "champa": {
-    "id": "champa",
-    "name": "Champa",
-    "districtId": "Janjgir-Champa",
-    "category": "Religious",
-    "image": "champa",
-    "gallery": [
-      "champa"
-    ],
-    "description": "Known for Samleshwari Temple and cultural heritage.",
-    "location": {
-      "latitude": 22.0400,
-      "longitude": 82.6500
-    },
-    "sections": []
-  },
-  "shivrinayaran": {
-    "id": "shivrinayaran",
-    "name": "Shivrinarayan",
-    "districtId": "Janjgir-Champa",
-    "category": "Religious",
-    "image": "shivrinayaran",
-    "gallery": [
-      "shivrinayaran"
-    ],
-    "description": "Sacred town at the confluence of Mahanadi and Shivnath rivers.",
-    "location": {
-      "latitude": 21.7300,
-      "longitude": 82.5900
-    },
-    "sections": []
-  },
-  "kotumsar-waterfall": {
-    "id": "kotumsar-waterfall",
-    "name": "Kotumsar Waterfall",
-    "districtId": "Bastar",
-    "category": "Waterfall",
-    "image": "kotumsarfall",
-    "gallery": [
-      "kotumsarfall"
-    ],
-    "description": "Beautiful natural waterfall near forest region.",
-    "location": {
-      "latitude": 19.0800,
-      "longitude": 81.9500
-    },
-    "sections": []
-  },
-  "bhairamgarh-wildlife": {
-    "id": "bhairamgarh-wildlife",
-    "name": "Bhairamgarh Wildlife Sanctuary",
-    "districtId": "Bijapur",
-    "category": "Wildlife Sanctuary",
-    "image": "bhairamgarh",
-    "gallery": [
-      "bhairamgarh"
-    ],
-    "description": "Dense forest area rich in flora and fauna.",
-    "location": {
-      "latitude": 18.8000,
-      "longitude": 80.8000
-    },
-    "sections": []
-  },
-  "deorani-jethani": {
-    "id": "deorani-jethani",
-    "name": "Deorani Jethani Temple",
-    "districtId": "Bilaspur",
-    "category": "Temple",
-    "image": "deoranijethani",
-    "gallery": [
-      "deoranijethani"
-    ],
-    "description": "Famous for unique Rudra Shiva sculpture.",
-    "location": {
-      "latitude": 22.1000,
-      "longitude": 82.2000
-    },
-    "sections": []
-  },
-  "jashpur-waterfall": {
-    "id": "jashpur-waterfall",
-    "name": "Jashpur Waterfall",
-    "districtId": "Jashpur",
-    "category": "Waterfall",
-    "image": "jashpurfall",
-    "gallery": [
-      "jashpurfall"
-    ],
-    "description": "Scenic waterfall surrounded by hills.",
-    "location": {
-      "latitude": 22.9000,
-      "longitude": 84.1000
-    },
-    "sections": []
-  },
-  "tamor-pingla": {
-    "id": "tamor-pingla",
-    "name": "Tamor Pingla Wildlife Sanctuary",
+  "mainpat": {
+    "id": "mainpat",
+    "name": "Mainpat",
     "districtId": "Surguja",
-    "category": "Wildlife Sanctuary",
-    "image": "tamor",
-    "gallery": [
-      "tamor"
-    ],
-    "description": "Newly declared tiger reserve area with rich biodiversity.",
+    "category": "Hill Station",
+    "image": "teerathgarhfalls",
+    "gallery": ["teerathgarhfalls", "mainpat"],
+    "description": "Known as the Shimla of Chhattisgarh, famous for Tibetan settlements.",
     "location": {
-      "latitude": 23.2000,
-      "longitude": 83.4000
-    },
-    "sections": []
-  },
-  "ganga-maiya-temple": {
-    "id": "ganga-maiya-temple",
-    "name": "Ganga Maiya Temple",
-    "districtId": "Mahasamund",
-    "category": "Temple",
-    "image": "gangamaiya",
-    "gallery": [
-      "gangamaiya"
-    ],
-    "description": "Ancient temple dedicated to Goddess Ganga.",
-    "location": {
-      "latitude": 21.1000,
-      "longitude": 82.1000
-    },
-    "sections": []
-  },
-  "kawardha-palace": {
-    "id": "kawardha-palace",
-    "name": "Kawardha Palace",
-    "districtId": "Kabirdham",
-    "category": "Palace",
-    "image": "kawardhapalace",
-    "gallery": [
-      "kawardhapalace"
-    ],
-    "description": "Royal heritage palace showcasing Rajput architecture.",
-    "location": {
-      "latitude": 22.0000,
-      "longitude": 81.2500
-    },
-    "sections": []
-  },
-  "maniyari-river": {
-    "id": "maniyari-river",
-    "name": "Maniyari River",
-    "districtId": "Mungeli",
-    "category": "River",
-    "image": "maniyari",
-    "gallery": [
-      "maniyari"
-    ],
-    "description": "Scenic river flowing through rural landscapes.",
-    "location": {
-      "latitude": 22.0700,
-      "longitude": 81.6800
-    },
-    "sections": []
-  },
-  "turturiya": {
-    "id": "turturiya",
-    "name": "Turturiya",
-    "districtId": "Balodabazar",
-    "category": "Historical",
-    "image": "turturiya",
-    "gallery": [
-      "turturiya"
-    ],
-    "description": "Ancient Buddhist site associated with Valmiki Ashram.",
-    "location": {
-      "latitude": 21.6000,
-      "longitude": 82.0000
-    },
-    "sections": []
-  },
-  "chandrahasini-temple": {
-    "id": "chandrahasini-temple",
-    "name": "Chandrahasini Temple",
-    "districtId": "Janjgir-Champa",
-    "category": "Temple",
-    "image": "chandrahasini",
-    "gallery": [
-      "chandrahasini"
-    ],
-    "description": "Famous temple dedicated to Goddess Chandrahasini.",
-    "location": {
-      "latitude": 22.0500,
-      "longitude": 82.6500
-    },
-    "sections": []
-  },
-  "semarsot": {
-    "id": "semarsot",
-    "name": "Semarsot Wildlife Sanctuary",
-    "districtId": "Balrampur",
-    "category": "Wildlife Sanctuary",
-    "image": "semarsot",
-    "gallery": [
-      "semarsot"
-    ],
-    "description": "Forest sanctuary rich in wildlife and greenery.",
-    "location": {
-      "latitude": 23.6000,
-      "longitude": 83.6000
-    },
-    "sections": []
-  },
-  "gadiya-mountain": {
-    "id": "gadiya-mountain",
-    "name": "Gadiya Mountain",
-    "districtId": "Kanker",
-    "category": "Hill",
-    "image": "gadiya",
-    "gallery": [
-      "gadiya"
-    ],
-    "description": "Scenic hill offering panoramic views of Kanker town.",
-    "location": {
-      "latitude": 20.2700,
-      "longitude": 81.4900
+      "latitude": 22.8222,
+      "longitude": 83.2847
     },
     "sections": []
   }
