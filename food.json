@@ -134,7 +134,7 @@
     "id": "angakar_roti",
     "title": "Angakar Roti",
     "subtitle": "Thick Rice Bread",
-    "image": "mainpat",
+    "image": "angakar_roti",
     "region": "Tribal Areas",
     "description": "A thick roti made of rice flour, traditionally cooked over chulha and served with chutney or curry.",
     "gallery": [
@@ -177,18 +177,6 @@
     "description": "Muthiya is a steamed rice flour dish shaped by hand and served with spicy chutney.",
     "gallery": [
       "muthiya1"
-    ],
-    "sections": []
-  },
-  {
-    "id": "aamat",
-    "title": "Aamat",
-    "subtitle": "Tribal Mixed Vegetable Curry",
-    "image": "aamat",
-    "region": "Bastar",
-    "description": "Aamat is a traditional Bastar curry made with bamboo shoots and mixed vegetables.",
-    "gallery": [
-      "aamat1"
     ],
     "sections": []
   },
