@@ -5,16 +5,14 @@
     "subtitle": "Songs of life & nature",
     "image": "karma_geet",
     "description": "Karma Geet ('Karma Songs') are sung during the Karma Festival, a celebration of trees and nature. Men and women sing and dance around a Karam branch planted in the village square, expressing joy, sorrow, and devotion to nature.",
-    "audioUrl": "",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/fizzycoding/cg-tourist-data@main/songs/karma.mp3",
     "youtubeUrl": "https://youtu.be/PiU219zoy6A?si=w5UGprbisuhFrEZT",
     "sections": [
       {
         "title": "Performed At",
         "type": "festival",
         "details": "Often performed during **Bastar Dussehra**.",
-        "data": [
-          "bastar-dussehra"
-        ]
+        "data": ["bastar-dussehra"]
       }
     ]
   },
@@ -24,8 +22,8 @@
     "subtitle": "Women's parrot songs",
     "image": "sua_songs",
     "description": "Exclusively performed by women, Sua songs ('Parrot Songs') involve carrying a basket with a parrot idol on the head. The songs narrate stories of separation and longing, using the parrot as a messenger.",
-    "audioUrl": "",
-    "youtubeUrl": "",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/fizzycoding/cg-tourist-data@main/songs/sua%20get.mp3",
+    "youtubeUrl": "https://youtu.be/odkf6qc-DOs?si=LOsjgFArOqRjlXy8",
     "sections": []
   },
   {
@@ -35,15 +33,13 @@
     "image": "panthi",
     "description": "Panthi Dance is considered one of the fastest and most energetic folk dances of Chhattisgarh.It is performed by the Satnami community in honor of Guru Ghasidas, featuring rapid movements, rhythmic steps, and powerful acrobatic formations.",
     "audioUrl": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/zSl_yCgk8Wc?si=EToTjvW9O_AsPgMZ",
     "sections": [
       {
         "title": "Performed At",
         "type": "ghasidas jayanti",
         "details": "Often performed during **ghasidas jayanti**.",
-        "data": [
-          "ghasidas-jayanti"
-        ]
+        "data": ["ghasidas_jayanti"]
       }
     ]
   },
@@ -54,7 +50,7 @@
     "image": "raut_nacha",
     "description": "Raut Nacha is a traditional folk dance of Chhattisgarh performed mainly by the Yadav (Raut) community after Diwali, especially on Dev Uthani Ekadashi. It symbolizes bravery, devotion to Lord Krishna, and pastoral culture. Performers wear colorful costumes, carry sticks or swords, and dance rhythmically to the beats of dhol and mandar.",
     "audioUrl": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://www.youtube.com/watch?v=N0YaLdZVaDY&list=RDN0YaLdZVaDY&start_radio=1",
     "sections": []
   },
   {
@@ -64,7 +60,7 @@
     "image": "danda",
     "description": "Danda Nach is performed with sticks in synchronized movements. It is energetic and usually performed during festive occasions.",
     "audioUrl": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Tpk4ncAJ3Ho&list=RDTpk4ncAJ3Ho&start_radio=1",
     "sections": []
   },
   {
@@ -74,7 +70,7 @@
     "image": "gaur",
     "description": "Gaur Dance is performed by the Maria tribe of Bastar. Dancers wear headgear decorated with bison horns and perform powerful movements symbolizing bravery.",
     "audioUrl": "",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JN_Y_Q7p-og",
     "sections": []
   },
   {
@@ -83,8 +79,8 @@
     "subtitle": "Epic storytelling tradition of Mahabharata",
     "image": "pandwani",
     "description": "Pandwani is a traditional folk singing style of Chhattisgarh based on stories from the Mahabharata. The performer narrates tales of the Pandavas with dramatic expressions, powerful voice modulation, and minimal musical instruments. It is usually performed in two styles — Vedamati (calm narration) and Kapalik (dramatic and expressive). Teejan Bai is one of the most famous exponents of Pandwani.",
-    "audioUrl": "",
-    "youtubeUrl": "",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/fizzycoding/cg-tourist-data@main/songs/pandvani.mp3",
+    "youtubeUrl": "https://www.youtube.com/watch?v=E0Eign-H7Y4&list=RDE0Eign-H7Y4&start_radio=1",
     "sections": []
   }
 ]
