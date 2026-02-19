@@ -45,8 +45,8 @@
     "name": "Silver Jubilee Park",
     "districtId": "Korba",
     "category": "Park",
-    "image": "teerathgarhfalls",
-    "gallery": ["teerathgarhfalls"],
+    "image": "silver-jubilee-park",
+    "gallery": ["silver-jubilee-park"],
     "description": "A beautiful park in the heart of Korba, perfect for evening walks and boating.",
     "location": {
       "latitude": 22.35,
@@ -59,8 +59,8 @@
     "name": "Hasdeo Bango Dam",
     "districtId": "Korba",
     "category": "Dam",
-    "image": "chitrakotwaterfall",
-    "gallery": ["chitrakotwaterfall"],
+    "image": "hasdeo-bango-dam",
+    "gallery": ["hasdeo-bango-dam"],
     "description": "One of the largest dams in Chhattisgarh, offering scenic views and water sports.",
     "location": {
       "latitude": 22.6,
@@ -73,8 +73,8 @@
     "name": "Buka Lake (Golden Island)",
     "districtId": "Korba",
     "category": "Lake",
-    "image": "bhoramdeotemple",
-    "gallery": ["bhoramdeotemple"],
+    "image": "buka-lake",
+    "gallery": ["buka-lake"],
     "description": "An emerging eco-tourism spot known for its island-like vibe and boating.",
     "location": {
       "latitude": 22.5,
@@ -87,8 +87,8 @@
     "name": "Mainpat",
     "districtId": "Surguja",
     "category": "Hill Station",
-    "image": "teerathgarhfalls",
-    "gallery": ["teerathgarhfalls", "mainpat"],
+    "image": "mainpat",
+    "gallery": ["mainpat"],
     "description": "Known as the Shimla of Chhattisgarh, famous for Tibetan settlements.",
     "location": {
       "latitude": 22.8222,
