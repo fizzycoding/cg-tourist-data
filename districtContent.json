@@ -6,11 +6,16 @@
       "latitude": 20.7308,
       "longitude": 81.2058
     },
-    "images": [],
+    "images": [
+
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "teerathgarhfalls",
+      "bhoramdeotemple"
+    ]
   },
   "Baloda Bazar-Bhatapara": {
     "famousFor": "Cement Hub & Nature",
@@ -19,11 +24,17 @@
       "latitude": 21.735,
       "longitude": 81.9471
     },
-    "images": [],
+    "images": [
+      "forest_village",
+      "chitrakotwaterfall"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "forest_village",
+      "chitrakotwaterfall"
+    ]
   },
   "Balrampur-Ramanujganj": {
     "famousFor": "Hot Springs & Hills",
@@ -32,11 +43,17 @@
       "latitude": 23.605,
       "longitude": 83.617
     },
-    "images": [],
+    "images": [
+      "mainpat",
+      "amritdhara"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "mainpat",
+      "amritdhara"
+    ]
   },
   "Bastar": {
     "famousFor": "Tribal Heartland & Waterfalls",
@@ -45,7 +62,11 @@
       "latitude": 19.1071,
       "longitude": 81.9535
     },
-    "images": [],
+    "images": [
+      "chitrakotwaterfall",
+      "teerathgarhfalls",
+      "bhoramdeotemple"
+    ],
     "places": [
       "chitrakot-falls",
       "teerathgarh-falls"
@@ -57,7 +78,11 @@
     "festivals": [
       "bastar-dussehra"
     ],
-    "gallery": []
+    "gallery": [
+      "chitrakotwaterfall",
+      "teerathgarhfalls",
+      "bhoramdeotemple"
+    ]
   },
   "Bemetara": {
     "famousFor": "Agriculture & Temples",
@@ -66,11 +91,17 @@
       "latitude": 21.714,
       "longitude": 81.5356
     },
-    "images": [],
+    "images": [
+      "village_food",
+      "tribal_fields"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "village_food",
+      "tribal_fields"
+    ]
   },
   "Bijapur": {
     "famousFor": "Wildlife & Caves",
@@ -79,11 +110,17 @@
       "latitude": 18.7917,
       "longitude": 80.8167
     },
-    "images": [],
+    "images": [
+      "forest_food",
+      "kangerValley"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "forest_food",
+      "kangerValley"
+    ]
   },
   "Bilaspur": {
     "famousFor": "Judicial Capital & Rice Bowl",
@@ -92,11 +129,19 @@
       "latitude": 22.0797,
       "longitude": 82.1409
     },
-    "images": [],
+    "images": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ]
   },
   "Dantewada": {
     "famousFor": "Danteshwari Temple",
@@ -105,11 +150,19 @@
       "latitude": 18.9003,
       "longitude": 81.3509
     },
-    "images": [],
+    "images": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ]
   },
   "Dhamtari": {
     "famousFor": "Gangrel Dam & Temples",
@@ -118,11 +171,17 @@
       "latitude": 20.7072,
       "longitude": 81.5487
     },
-    "images": [],
+    "images": [
+      "chitrakotwaterfall",
+      "bhoramdeotemple"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "chitrakotwaterfall",
+      "bhoramdeotemple"
+    ]
   },
   "Durg": {
     "famousFor": "Steel City (Bhilai)",
@@ -131,11 +190,19 @@
       "latitude": 21.19,
       "longitude": 81.2849
     },
-    "images": [],
+    "images": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ]
   },
   "Gariaband": {
     "famousFor": "Rajim Kumbh & Nature",
@@ -144,11 +211,17 @@
       "latitude": 20.6332,
       "longitude": 82.0622
     },
-    "images": [],
+    "images": [
+      "bhoramdeotemple",
+      "river_confluence"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "bhoramdeotemple",
+      "river_confluence"
+    ]
   },
   "Gaurela-Pendra-Marwahi": {
     "famousFor": "Origin of Arpa River",
@@ -157,11 +230,17 @@
       "latitude": 22.767,
       "longitude": 81.867
     },
-    "images": [],
+    "images": [
+      "forest_village",
+      "hill_view"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "forest_village",
+      "hill_view"
+    ]
   },
   "Janjgir-Champa": {
     "famousFor": "Power Hub & Vishnu Mandir",
@@ -170,11 +249,17 @@
       "latitude": 21.9,
       "longitude": 82.7
     },
-    "images": [],
+    "images": [
+      "bhoramdeotemple",
+      "paddy_fields"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "bhoramdeotemple",
+      "paddy_fields"
+    ]
   },
   "Jashpur": {
     "famousFor": "Forests & Waterfalls",
@@ -183,11 +268,19 @@
       "latitude": 22.887,
       "longitude": 84.138
     },
-    "images": [],
+    "images": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ]
   },
   "Kabirdham": {
     "famousFor": "Bhoramdeo Temple (Khajuraho of CG)",
@@ -196,7 +289,11 @@
       "latitude": 22.0085,
       "longitude": 81.2385
     },
-    "images": [],
+    "images": [
+      "bhoramdeotemple",
+      "chitrakotwaterfall",
+      "teerathgarhfalls"
+    ],
     "places": [
       "bhoramdeo-temple"
     ],
@@ -206,7 +303,11 @@
     "festivals": [
       "madai"
     ],
-    "gallery": []
+    "gallery": [
+      "bhoramdeotemple",
+      "chitrakotwaterfall",
+      "teerathgarhfalls"
+    ]
   },
   "Kanker": {
     "famousFor": "Tribal Art & History",
@@ -215,11 +316,17 @@
       "latitude": 20.27,
       "longitude": 81.49
     },
-    "images": [],
+    "images": [
+      "bastar_art",
+      "palace_view"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "bastar_art",
+      "palace_view"
+    ]
   },
   "Khairagarh-Chhuikhadan-Gandai": {
     "famousFor": "Music & Arts University",
@@ -228,11 +335,17 @@
       "latitude": 21.5295,
       "longitude": 80.9483
     },
-    "images": [],
+    "images": [
+      "music_university",
+      "art_gallery"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "music_university",
+      "art_gallery"
+    ]
   },
   "Kondagaon": {
     "famousFor": "Bell Metal Crafts",
@@ -241,11 +354,17 @@
       "latitude": 19.6,
       "longitude": 81.67
     },
-    "images": [],
+    "images": [
+      "bell_metal_craft",
+      "terracotta_art"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "bell_metal_craft",
+      "terracotta_art"
+    ]
   },
   "Korba": {
     "famousFor": "Power Capital of India",
@@ -254,7 +373,11 @@
       "latitude": 22.3595,
       "longitude": 82.7501
     },
-    "images": [],
+    "images": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ],
     "places": [
       "silver-jubilee-park",
       "hasdeo-bango-dam",
@@ -268,7 +391,11 @@
       "chaitra-navratri",
       "hareli"
     ],
-    "gallery": []
+    "gallery": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ]
   },
   "Koriya": {
     "famousFor": "Natural Beauty & Waterfalls",
@@ -277,11 +404,19 @@
       "latitude": 23.33,
       "longitude": 82.56
     },
-    "images": [],
+    "images": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ]
   },
   "Mahasamund": {
     "famousFor": "Sirpur Heritage Site",
@@ -290,11 +425,17 @@
       "latitude": 21.1091,
       "longitude": 82.0979
     },
-    "images": [],
+    "images": [
+      "bhoramdeotemple",
+      "sirpur_temple"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "bhoramdeotemple",
+      "sirpur_temple"
+    ]
   },
   "Manendragarh-Chirmiri-Bharatpur": {
     "famousFor": "Coal Mines & Hills",
@@ -303,11 +444,17 @@
       "latitude": 23.2139,
       "longitude": 82.2013
     },
-    "images": [],
+    "images": [
+      "coal_mines",
+      "hill_view"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "coal_mines",
+      "hill_view"
+    ]
   },
   "Mohla-Manpur-Ambagarh Chowki": {
     "famousFor": "Dense Forests & Tribal Life",
@@ -316,11 +463,17 @@
       "latitude": 20.59,
       "longitude": 80.75
     },
-    "images": [],
+    "images": [
+      "forest_view",
+      "tribal_life"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "forest_view",
+      "tribal_life"
+    ]
   },
   "Mungeli": {
     "famousFor": "Achanakmar Tiger Reserve",
@@ -329,11 +482,17 @@
       "latitude": 22.0685,
       "longitude": 81.6857
     },
-    "images": [],
+    "images": [
+      "tiger_reserve",
+      "wildlife"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "tiger_reserve",
+      "wildlife"
+    ]
   },
   "Narayanpur": {
     "famousFor": "Abujhmad Forests",
@@ -342,11 +501,17 @@
       "latitude": 19.6043,
       "longitude": 81.0812
     },
-    "images": [],
+    "images": [
+      "dense_forest",
+      "tribal_village"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "dense_forest",
+      "tribal_village"
+    ]
   },
   "Raigarh": {
     "famousFor": "Cultural Capital & Steel",
@@ -355,11 +520,17 @@
       "latitude": 21.9056,
       "longitude": 83.3995
     },
-    "images": [],
+    "images": [
+      "cultural_fest",
+      "steel_plant"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "cultural_fest",
+      "steel_plant"
+    ]
   },
   "Raipur": {
     "famousFor": "Capital City & Steel Hub",
@@ -368,11 +539,19 @@
       "latitude": 21.2514,
       "longitude": 81.6296
     },
-    "images": [],
+    "images": [
+      "bhoramdeotemple",
+      "teerathgarhfalls",
+      "chitrakotwaterfall"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "bhoramdeotemple",
+      "teerathgarhfalls",
+      "chitrakotwaterfall"
+    ]
   },
   "Rajnandgaon": {
     "famousFor": "literary Heritage & Industry",
@@ -381,11 +560,17 @@
       "latitude": 21.0979,
       "longitude": 81.0337
     },
-    "images": [],
+    "images": [
+      "city_view",
+      "industrial_area"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "city_view",
+      "industrial_area"
+    ]
   },
   "Sakti": {
     "famousFor": "Damudhara & Temples",
@@ -394,11 +579,17 @@
       "latitude": 22.0266,
       "longitude": 82.9609
     },
-    "images": [],
+    "images": [
+      "waterfall_view",
+      "temple_view"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "waterfall_view",
+      "temple_view"
+    ]
   },
   "Sarangarh-Bilaigarh": {
     "famousFor": "Gomarda Wildlife Sanctuary",
@@ -407,11 +598,17 @@
       "latitude": 21.5429,
       "longitude": 83.1266
     },
-    "images": [],
+    "images": [
+      "wildlife",
+      "sanctuary_entrance"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "wildlife",
+      "sanctuary_entrance"
+    ]
   },
   "Sukma": {
     "famousFor": "Remote Tribal Culture",
@@ -420,11 +617,17 @@
       "latitude": 18.3911,
       "longitude": 81.6593
     },
-    "images": [],
+    "images": [
+      "river_view",
+      "forest_path"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "river_view",
+      "forest_path"
+    ]
   },
   "Surajpur": {
     "famousFor": "Tamor Pingla Sanctuary",
@@ -433,11 +636,17 @@
       "latitude": 23.223,
       "longitude": 82.8706
     },
-    "images": [],
+    "images": [
+      "sanctuary_view",
+      "pilgrimage_site"
+    ],
     "places": [],
     "tribes": [],
     "festivals": [],
-    "gallery": []
+    "gallery": [
+      "sanctuary_view",
+      "pilgrimage_site"
+    ]
   },
   "Surguja": {
     "famousFor": "Mainpat (Shimla of CG)",
@@ -446,7 +655,11 @@
       "latitude": 23.1186,
       "longitude": 83.1956
     },
-    "images": [],
+    "images": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ],
     "places": [
       "mainpat"
     ],
@@ -456,7 +669,11 @@
     "festivals": [
       "hareli"
     ],
-    "gallery": []
+    "gallery": [
+      "teerathgarhfalls",
+      "bhoramdeotemple",
+      "chitrakotwaterfall"
+    ]
   },
   "Default": {
     "famousFor": "Explore Chhattisgarh",
