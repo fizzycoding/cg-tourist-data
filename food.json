@@ -3,13 +3,11 @@
     "id": "chapda",
     "title": "Chapda Chutney",
     "subtitle": "Spicy red ant chutney",
-    "image": "bhoramdeotemple",
+    "image": "chapda",
     "region": "Bastar",
     "description": "Known as Chapda, this fiery red ant chutney is a traditional delicacy of the Bastar tribes. Made from dried red ants and their eggs, it is rich in formic acid and believed to cure ailments like fever and cough. The sharp, tangy taste combined with local spices makes it unique.",
     "gallery": [
-      "bhoramdeotemple",
-      "chitrakotwaterfall",
-      "teerathgarhfalls"
+      "chapda1"
     ],
     "sections": [
       {
@@ -26,13 +24,11 @@
     "id": "mahua_lata",
     "title": "Mahua Lata",
     "subtitle": "Traditional flower wine",
-    "image": "chitrakotwaterfall",
+    "image": "mahua_lata",
     "region": "All Chhattisgarh",
     "description": "Brewed from the fragrant flowers of the Mahua tree, this traditional wine is central to tribal culture. It is consumed during festivals, weddings, and social gatherings as a sacred community drink.",
     "gallery": [
-      "chitrakotwaterfall",
-      "bhoramdeotemple",
-      "teerathgarhfalls"
+      "mahua_lata"
     ],
     "sections": []
   },
@@ -40,13 +36,11 @@
     "id": "mahua_gathering",
     "title": "Mahua Gathering",
     "subtitle": "Forest produce livelihood",
-    "image": "bhoramdeotemple",
+    "image": "mahua_gathering",
     "region": "All Chhattisgarh",
     "description": "The collection of Mahua flowers is a seasonal activity involving entire families. Flowers are dried and stored for year-round use in food, liquor, and traditional medicine.",
     "gallery": [
-      "bhoramdeotemple",
-      "teerathgarhfalls",
-      "chitrakotwaterfall"
+      "mahua_gathering"
     ],
     "sections": []
   },
@@ -68,13 +62,11 @@
     "id": "bore_basi",
     "title": "Bore Basi",
     "subtitle": "Fermented rice meal",
-    "image": "tribal_kitchen",
+    "image": "bore_basi",
     "region": "All Chhattisgarh",
     "description": "Bore Basi is a traditional dish made by soaking cooked rice overnight in water. It is eaten in the morning, especially during summers, and is known for keeping the body cool and improving digestion.",
     "gallery": [
-      "tribal_kitchen",
-      "village_food",
-      "summer_meal"
+      "bore_basi1"
     ],
     "sections": []
   },
@@ -82,13 +74,11 @@
     "id": "pej",
     "title": "Pej",
     "subtitle": "Rice water drink",
-    "image": "village_food",
+    "image": "pej",
     "region": "Tribal regions of Chhattisgarh",
     "description": "Pej is a light rice water drink prepared during rice cooking. It is nutritious, easy to digest, and commonly consumed by elders and children.",
     "gallery": [
-      "village_food",
-      "tribal_kitchen",
-      "simple_meal"
+      "pej1"
     ],
     "sections": []
   },
@@ -96,13 +86,11 @@
     "id": "kodo_kutki",
     "title": "Kodo–Kutki Rice",
     "subtitle": "Nutritious millet meal",
-    "image": "forest_grains",
+    "image": "kodo_kutki",
     "region": "Bastar, Surguja",
     "description": "Kodo and Kutki are traditional millets grown by tribal communities. They are highly nutritious and used to prepare rice, porridge, and rotis.",
     "gallery": [
-      "forest_grains",
-      "millet_farming",
-      "tribal_fields"
+      "kodo_kutki1"
     ],
     "sections": []
   },
@@ -110,13 +98,11 @@
     "id": "sukha_sag",
     "title": "Sukha Saag",
     "subtitle": "Dry forest greens",
-    "image": "forest_food",
+    "image": "sukha_sag",
     "region": "Forest regions of Chhattisgarh",
     "description": "Sukha Saag is made from dried forest leafy vegetables. It is cooked with minimal spices and reflects the tribes’ deep knowledge of edible forest plants.",
     "gallery": [
-      "forest_food",
-      "tribal_kitchen",
-      "local_greens"
+      "sukha_sag1"
     ],
     "sections": []
   },
@@ -124,13 +110,11 @@
     "id": "chila",
     "title": "Chila",
     "subtitle": "Traditional Rice Pancake",
-    "image": "chitrakotwaterfall",
+    "image": "chila",
     "region": "All Chhattisgarh",
     "description": "Chila is a soft pancake made from rice batter or gram flour. It is commonly eaten as breakfast with chutney.",
     "gallery": [
-      "chitrakotwaterfall",
-      "mainpat",
-      "teerathgarhfalls"
+      "chila1"
     ],
     "sections": []
   },
@@ -138,13 +122,11 @@
     "id": "faraa",
     "title": "Faraa",
     "subtitle": "Steamed Rice Dumplings",
-    "image": "bhoramdeotemple",
+    "image": "faraa",
     "region": "Raipur, Durg",
     "description": "Faraa is made from rice flour dough stuffed with spiced lentils and steamed. It is a healthy traditional snack.",
     "gallery": [
-      "bhoramdeotemple",
-      "mainpat",
-      "chitrakotwaterfall"
+      "faraa1"
     ],
     "sections": []
   },
@@ -166,13 +148,11 @@
     "id": "bafauri",
     "title": "Bafauri",
     "subtitle": "Steamed Chana Snack",
-    "image": "teerathgarhfalls",
+    "image": "bafauri",
     "region": "Bilaspur",
     "description": "Bafauri is a steamed snack made from chana dal paste mixed with spices. It is oil-free and healthy.",
     "gallery": [
-      "teerathgarhfalls",
-      "mainpat",
-      "chitrakotwaterfall"
+      "bafauri1"
     ],
     "sections": []
   },
@@ -180,13 +160,11 @@
     "id": "dubki_kadhi",
     "title": "Dubki Kadhi",
     "subtitle": "Gram Flour Curry",
-    "image": "mainpat",
+    "image": "dubki_kadhi",
     "region": "All Chhattisgarh",
     "description": "A flavorful kadhi made with gram flour dumplings dipped in tangy yogurt curry.",
     "gallery": [
-      "mainpat",
-      "bhoramdeotemple",
-      "chitrakotwaterfall"
+      "dubki_kadhi1"
     ],
     "sections": []
   },
@@ -194,13 +172,11 @@
     "id": "muthiya",
     "title": "Muthiya",
     "subtitle": "Rice Dumpling Dish",
-    "image": "bhoramdeotemple",
+    "image": "muthiya",
     "region": "Raigarh",
     "description": "Muthiya is a steamed rice flour dish shaped by hand and served with spicy chutney.",
     "gallery": [
-      "bhoramdeotemple",
-      "mainpat",
-      "teerathgarhfalls"
+      "muthiya1"
     ],
     "sections": []
   },
@@ -208,13 +184,11 @@
     "id": "aamat",
     "title": "Aamat",
     "subtitle": "Tribal Mixed Vegetable Curry",
-    "image": "chitrakotwaterfall",
+    "image": "aamat",
     "region": "Bastar",
     "description": "Aamat is a traditional Bastar curry made with bamboo shoots and mixed vegetables.",
     "gallery": [
-      "chitrakotwaterfall",
-      "mainpat",
-      "teerathgarhfalls"
+      "aamat1"
     ],
     "sections": []
   },
@@ -222,13 +196,11 @@
     "id": "thethri",
     "title": "Thethri",
     "subtitle": "Crunchy Festive Snack",
-    "image": "mainpat",
+    "image": "thethri",
     "region": "All Chhattisgarh",
     "description": "A crispy snack prepared during festivals, made with wheat flour and spices.",
     "gallery": [
-      "mainpat",
-      "bhoramdeotemple",
-      "chitrakotwaterfall"
+      "thethri1"
     ],
     "sections": []
   },
@@ -236,13 +208,11 @@
     "id": "khurmi",
     "title": "Khurmi",
     "subtitle": "Sweet Festive Delight",
-    "image": "teerathgarhfalls",
+    "image": "khurmi",
     "region": "All Chhattisgarh",
     "description": "Khurmi is a traditional sweet prepared during weddings and festivals.",
     "gallery": [
-      "teerathgarhfalls",
-      "mainpat",
-      "bhoramdeotemple"
+      "khurmi1"
     ],
     "sections": []
   },
@@ -250,13 +220,11 @@
     "id": "dehrori",
     "title": "Dehrori",
     "subtitle": "Sweet Rice Dessert",
-    "image": "mainpat",
+    "image": "dehrori",
     "region": "Rural Chhattisgarh",
     "description": "A sweet dish made from rice batter and jaggery, deep-fried and soaked in sugar syrup.",
     "gallery": [
-      "mainpat",
-      "chitrakotwaterfall",
-      "bhoramdeotemple"
+      "dehrori1"
     ],
     "sections": []
   },
@@ -264,13 +232,11 @@
     "id": "bara",
     "title": "Bara",
     "subtitle": "Lentil Fritter",
-    "image": "chitrakotwaterfall",
+    "image": "bara",
     "region": "All Chhattisgarh",
     "description": "A deep-fried lentil snack commonly served with chutney.",
     "gallery": [
-      "chitrakotwaterfall",
-      "mainpat",
-      "teerathgarhfalls"
+      "bara1"
     ],
     "sections": []
   },
@@ -278,13 +244,11 @@
     "id": "tikhur_kheer",
     "title": "Tikhur Kheer",
     "subtitle": "Cooling Root Dessert",
-    "image": "bhoramdeotemple",
+    "image": "tikhur_kheer",
     "region": "Tribal Areas",
     "description": "A summer dessert made from tikhur root powder, milk and sugar.",
     "gallery": [
-      "bhoramdeotemple",
-      "mainpat",
-      "chitrakotwaterfall"
+      "tikhur_kheer1"
     ],
     "sections": []
   },
@@ -292,13 +256,11 @@
     "id": "chaprah_chutney",
     "title": "Chaprah Chutney",
     "subtitle": "Red Ant Chutney",
-    "image": "mainpat",
+    "image": "chaprah_chutney",
     "region": "Bastar",
     "description": "A famous Bastar delicacy made from red ants and spices, known for its tangy taste.",
     "gallery": [
-      "mainpat",
-      "teerathgarhfalls",
-      "chitrakotwaterfall"
+      "chaprah_chutney1"
     ],
     "sections": []
   },
@@ -306,13 +268,11 @@
     "id": "mahua_ladoo",
     "title": "Mahua Ladoo",
     "subtitle": "Traditional Tribal Sweet",
-    "image": "bhoramdeotemple",
+    "image": "mahua_ladoo",
     "region": "Forest Areas",
     "description": "Sweet balls made from dried Mahua flowers mixed with jaggery.",
     "gallery": [
-      "bhoramdeotemple",
-      "mainpat",
-      "teerathgarhfalls"
+      "mahua_ladoo1"
     ],
     "sections": []
   },
@@ -320,13 +280,11 @@
     "id": "chousela",
     "title": "Chousela",
     "subtitle": "Festive Fried Bread",
-    "image": "chitrakotwaterfall",
+    "image": "chousela",
     "region": "Raipur",
     "description": "Deep-fried rice bread served during festivals and weddings.",
     "gallery": [
-      "chitrakotwaterfall",
-      "mainpat",
-      "bhoramdeotemple"
+      "chousela1"
     ],
     "sections": []
   },
@@ -334,13 +292,11 @@
     "id": "bhajia",
     "title": "Bhajia",
     "subtitle": "Crispy Evening Snack",
-    "image": "mainpat",
+    "image": "bhajia",
     "region": "All Chhattisgarh",
     "description": "Vegetable fritters fried in gram flour batter, popular as evening snack.",
     "gallery": [
-      "mainpat",
-      "teerathgarhfalls",
-      "bhoramdeotemple"
+      "bhajia1"
     ],
     "sections": []
   },
@@ -348,13 +304,11 @@
     "id": "sabudana_khichdi",
     "title": "Sabudana Khichdi",
     "subtitle": "Fasting Special Dish",
-    "image": "teerathgarhfalls",
+    "image": "sabudana_khichdi",
     "region": "All Chhattisgarh",
     "description": "A light dish made from soaked sabudana, peanuts and spices.",
     "gallery": [
-      "teerathgarhfalls",
-      "mainpat",
-      "chitrakotwaterfall"
+      "sabudana_khichdi1"
     ],
     "sections": []
   },
@@ -362,13 +316,11 @@
     "id": "tilgur_ladoo",
     "title": "Tilgur Ladoo",
     "subtitle": "Winter Sweet",
-    "image": "mainpat",
+    "image": "tilgur_ladoo",
     "region": "All Chhattisgarh",
     "description": "Sweet balls made from sesame seeds and jaggery during winter.",
     "gallery": [
-      "mainpat",
-      "bhoramdeotemple",
-      "chitrakotwaterfall"
+      "tilgur_ladoo1"
     ],
     "sections": []
   },
@@ -376,13 +328,11 @@
     "id": "rice_pitha",
     "title": "Rice Pitha",
     "subtitle": "Traditional Steamed Cake",
-    "image": "bhoramdeotemple",
+    "image": "rice_pitha",
     "region": "Rural Areas",
     "description": "A steamed rice cake stuffed with jaggery and coconut.",
     "gallery": [
-      "bhoramdeotemple",
-      "mainpat",
-      "teerathgarhfalls"
+      "rice_pitha1"
     ],
     "sections": []
   }
